@@ -1,5 +1,27 @@
-# annotation_workflow_template
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
 
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+# Overview
+|     file_name     |measures|labels|standard|annotators|reviewers|
+|-------------------|-------:|-----:|--------|----------|---------|
+|op42_10            |      25|     0|        |          |         |
+|op42_11            |      16|     0|        |          |         |
+|op42_12            |      23|     0|        |          |         |
+|op42_13a           |      17|     0|        |          |         |
+|op42_13b_intermezzo|      12|     0|        |          |         |
+|op42_14            |      16|     0|        |          |         |
+|op42_15            |      26|     0|        |          |         |
+|op42_16            |      15|     0|        |          |         |
+|op42_17            |      23|     0|        |          |         |
+|op42_18            |      16|     0|        |          |         |
+|op42_19            |      17|     0|        |          |         |
+|op42_1a_theme      |      16|     0|        |          |         |
+|op42_1b            |      16|     0|        |          |         |
+|op42_2             |      16|     0|        |          |         |
+|op42_20            |      44|     0|        |          |         |
+|op42_3             |      16|     0|        |          |         |
+|op42_4             |      16|     0|        |          |         |
+|op42_5             |      16|     0|        |          |         |
+|op42_6             |      16|     0|        |          |         |
+|op42_7             |      18|     0|        |          |         |
+|op42_8             |      15|     0|        |          |         |
+|op42_9             |      19|     0|        |          |         |

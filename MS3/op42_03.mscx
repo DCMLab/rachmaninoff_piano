@@ -2425,7 +2425,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>d.i</name>
+            <name>d.i{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3194,7 +3194,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/i</name>
+            <name>V/i|HC}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -3275,7 +3275,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/i</name>
+            <name>i/i{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4138,7 +4138,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>

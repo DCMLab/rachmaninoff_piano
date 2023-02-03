@@ -1,0 +1,6 @@
+Warnings encountered during the last execution of ms3 review (v1.2.1)
+=====================================================================
+
+Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
+                                     mc  mn mc_onset   label    chord_tones added_tones  n_colored  n_untouched  count_ratio
+rachmaninoff_piano MS3/op42_03.mscx  12  12      5/8  Fr65/i  (8, -2, 2, 4)          ()        6.0          2.0         0.75

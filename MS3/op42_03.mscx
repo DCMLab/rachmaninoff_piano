@@ -3425,7 +3425,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V7(11)/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3733,7 +3733,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr43/III</name>
+            <name>Fr7(4)/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4098,7 +4098,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%64</name>
+            <name>ii%65</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

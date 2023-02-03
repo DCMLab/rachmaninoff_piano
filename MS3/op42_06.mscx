@@ -4054,7 +4054,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii/iv</name>
+            <name>#vii/iv</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -4371,7 +4371,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2</name>
+            <name>#viio2</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4437,7 +4437,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43(4)</name>
+            <name>#viio43(4)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

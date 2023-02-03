@@ -4868,7 +4868,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7</name>
+            <name>viio7/V/III</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -5316,7 +5316,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(4)/i</name>
+            <name>#viio7(4)/i</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6240,7 +6240,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7</name>
+            <name>viio7/V/III</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>

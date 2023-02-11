@@ -4806,7 +4806,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43(#5)/iv</name>
+            <name>#viio43(#5)/iv</name>
             </Harmony>
           <Rest>
             <offset x="-0.390755" y="7.74997"/>

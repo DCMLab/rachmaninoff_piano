@@ -3003,7 +3003,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI6(b6)/VII</name>
+            <name>I+6/VII</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3027,7 +3027,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI6/VII</name>
+            <name>i/VII</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>

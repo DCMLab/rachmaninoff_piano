@@ -3,7 +3,7 @@
 # Overview
 |file_name|measures|measures|labels|standard|annotators |reviewers|
 |---------|-------:|-------:|-----:|--------|-----------|---------|
-|         |        |      16|     0|        |           |         |
+|         |      16|      16|    28|2.3.0   |Amelia Brey|DK       |
 |         |      16|      16|    35|2.3.0   |Amelia Brey|DK       |
 |         |        |      16|     0|        |           |         |
 |         |        |      16|     0|        |           |         |

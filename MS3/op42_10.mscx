@@ -4362,7 +4362,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7(#14)/V/III</name>
+            <name>ii7(^#14)/V/III</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>

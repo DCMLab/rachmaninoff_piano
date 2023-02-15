@@ -4866,7 +4866,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/iv</name>
+            <name>#viio7/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

@@ -1,0 +1,25 @@
+mc	mn	mc_onset	mn_onset	timesig	staff	voice	volta	label	globalkey	localkey	pedal	chord	special	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	0	0	3/4	2	1		d.i{	d	i		i		i						{	m	1	1	0, -3, 1		0	0
+1	1	11/16	11/16	3/4	2	1		Fr43	d	i		Fr43	Fr	V		43	b5	V			Fr	1	1	-4, 0, 2, 6		2	-4
+2	2	0	0	3/4	2	1		V7	d	i		V7		V		7					Mm7	1	1	1, 5, 2, -1		1	1
+3	3	0	0	3/4	2	1		i	d	i		i		i							m	1	1	0, -3, 1		0	0
+3	3	11/16	11/16	3/4	2	1		viio7/V/III	d	i		viio7/V/III		vii	o	7		V/III			o7	1	1	3, 0, -3, -6		3	3
+4	4	0	0	3/4	2	1		V7/III	d	i		V7/III		V		7		III			Mm7	1	1	-2, 2, -1, -4		-2	-2
+5	5	0	0	3/4	2	1		I/III	d	i		I/III		I				III			M	1	1	-3, 1, -2		-3	-3
+6	6	0	0	3/4	2	1		V7/III	d	i		V7/III		V		7		III			Mm7	1	1	-2, 2, -1, -4		-2	-2
+6	6	11/16	11/16	3/4	2	1		#viio7(4)	d	i		#viio7(4)		#vii	o	7	4				o7	1	1	5, -3, -1, -4		5	5
+7	7	0	0	3/4	2	1		i	d	i		i		i							m	1	1	0, -3, 1		0	0
+7	7	11/16	11/16	3/4	2	1		ii%43	d	i		ii%43		ii	%	43					%7	1	1	-4, 0, 2, -1		2	-4
+8	8	0	0	3/4	2	2		V7|HC}	d	i		V7		V		7			HC	}	Mm7	1	1	1, 5, 2, -1		1	1
+9	9	0	0	3/4	2	1		i{	d	i		i		i						{	m	1	1	0, -3, 1		0	0
+9	9	11/16	11/16	3/4	2	1		Fr43	d	i		Fr43	Fr	V		43	b5	V			Fr	1	1	-4, 0, 2, 6		2	-4
+10	10	0	0	3/4	2	1		V7	d	i		V7		V		7					Mm7	1	1	1, 5, 2, -1		1	1
+11	11	0	0	3/4	2	1		i	d	i		i		i							m	1	1	0, -3, 1		0	0
+11	11	11/16	11/16	3/4	2	1		viio7/V/III	d	i		viio7/V/III		vii	o	7		V/III			o7	1	1	3, 0, -3, -6		3	3
+12	12	0	0	3/4	2	1		V7/III	d	i		V7/III		V		7		III			Mm7	1	1	-2, 2, -1, -4		-2	-2
+13	13	0	0	3/4	2	1		I/III	d	i		I/III		I				III			M	1	1	-3, 1, -2		-3	-3
+14	14	0	0	3/4	2	1		V7/III	d	i		V7/III		V		7		III			Mm7	1	1	-2, 2, -1, -4		-2	-2
+14	14	11/16	11/16	3/4	2	1		viio7(4)	d	i		viio7(4)		vii	o	7	4				o7	1	1	-2, -3, -8, -11		-2	-2
+15	15	0	0	3/4	2	1		i	d	i		i		i							m	1	1	0, -3, 1		0	0
+15	15	1/2	1/2	3/4	2	1		V7	d	i		V7		V		7					Mm7	1	1	1, 5, 2, -1		1	1
+16	16	0	0	3/4	2	2		i|PAC}	d	i		i		i					PAC	}	m	1	1	0, -3, 1		0	0

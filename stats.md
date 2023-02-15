@@ -4,12 +4,12 @@
 ## Vital statistics
 
 |---:|:------------------------------------------------------------------|
-|  2 | Number of pieces in corpus                                        |
-| 32 | Number of measures in corpus                                      |
+|  3 | Number of pieces in corpus                                        |
+| 50 | Number of measures in corpus                                      |
 |  0 | Number of untouched pieces in corpus                              |
 |  0 | Number of untouched measures in corpus                            |
-|  2 | Number of pieces reviewed in the latest version of the standard   |
-| 32 | Number of measures reviewed in the latest version of the standard |
+|  3 | Number of pieces reviewed in the latest version of the standard   |
+| 50 | Number of measures reviewed in the latest version of the standard |
 
 ## Completion ratios
 

@@ -1,6 +1,35 @@
 # Variations on a Theme of Corelli, Op. 42
 
 # Overview
+<<<<<<< HEAD
+|file_name|measures|labels|standard|annotators |reviewers|
+|---------|-------:|-----:|--------|-----------|---------|
+|op42_01a |        |     0|        |           |         |
+|op42_01b |        |     0|        |           |         |
+|op42_02  |        |     0|        |           |         |
+|op42_03  |        |     0|        |           |         |
+|op42_04  |        |     0|        |           |         |
+|op42_05  |      16|    17|2.3.0   |Amelia Brey|DK       |
+|op42_06  |        |     0|        |           |         |
+|op42_07  |        |     0|        |           |         |
+|op42_08  |        |     0|        |           |         |
+|op42_09  |        |     0|        |           |         |
+|op42_10  |        |     0|        |           |         |
+|op42_11  |        |     0|        |           |         |
+|op42_12  |        |     0|        |           |         |
+|op42_13a |        |     0|        |           |         |
+|op42_13b |        |     0|        |           |         |
+|op42_14  |        |     0|        |           |         |
+|op42_15  |        |     0|        |           |         |
+|op42_16  |        |     0|        |           |         |
+|op42_17  |        |     0|        |           |         |
+|op42_18  |        |     0|        |           |         |
+|op42_19  |        |     0|        |           |         |
+|op42_20  |        |     0|        |           |         |
+
+
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.3.*
+=======
 |file_name|measures|measures|labels|standard|annotators |reviewers|
 |---------|-------:|-------:|-----:|--------|-----------|---------|
 |         |      16|      16|    28|2.3.0   |Amelia Brey|DK       |
@@ -25,3 +54,4 @@
 |         |        |      16|     0|        |           |         |
 |         |        |      17|     0|        |           |         |
 |         |        |      44|     0|        |           |         |
+>>>>>>> @{-1}

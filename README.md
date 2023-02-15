@@ -1,6 +1,7 @@
 # Variations on a Theme of Corelli, Op. 42
 
 # Overview
+<<<<<<< HEAD
 |file_name|measures|labels|standard|annotators |reviewers|
 |---------|-------:|-----:|--------|-----------|---------|
 |op42_01a |        |     0|        |           |         |
@@ -28,3 +29,29 @@
 
 
 *Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.3.*
+=======
+|file_name|measures|measures|labels|standard|annotators |reviewers|
+|---------|-------:|-------:|-----:|--------|-----------|---------|
+|         |      16|      16|    28|2.3.0   |Amelia Brey|DK       |
+|         |      16|      16|    35|2.3.0   |Amelia Brey|DK       |
+|         |      16|      16|    24|2.3.0   |Amelia Brey|DK       |
+|         |      16|      16|    52|2.3.0   |Amelia Brey|DK       |
+|         |        |      16|     0|        |           |         |
+|         |        |      16|     0|        |           |         |
+|         |        |      16|     0|        |           |         |
+|         |        |      18|     0|        |           |         |
+|         |        |      15|     0|        |           |         |
+|         |        |      19|     0|        |           |         |
+|         |        |      25|     0|        |           |         |
+|         |        |      16|     0|        |           |         |
+|         |        |      23|     0|        |           |         |
+|         |        |      17|     0|        |           |         |
+|         |        |      12|     0|        |           |         |
+|         |        |      16|     0|        |           |         |
+|         |        |      26|     0|        |           |         |
+|         |        |      15|     0|        |           |         |
+|         |        |      23|     0|        |           |         |
+|         |        |      16|     0|        |           |         |
+|         |        |      17|     0|        |           |         |
+|         |        |      44|     0|        |           |         |
+>>>>>>> @{-1}

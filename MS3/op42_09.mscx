@@ -3325,7 +3325,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(13)</name>
+            <name>VIM7(13)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -4458,7 +4458,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(13)</name>
+            <name>VIM7(13)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

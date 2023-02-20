@@ -4848,6 +4848,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4872,7 +4876,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii43/iv</name>
+            <name>V6(#139)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>

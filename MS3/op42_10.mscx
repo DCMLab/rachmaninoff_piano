@@ -4343,6 +4343,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VM7</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4363,7 +4367,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7(^#14)/V/III</name>
+            <name>iv7(^#7)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>

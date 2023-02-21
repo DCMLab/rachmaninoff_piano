@@ -8,3 +8,4 @@
 |op42_07  |      18|    51|2.3.0   |Amelia Brey|DK          |
 |op42_08  |      15|    45|2.3.0   |Amelia Brey|DK          |
 |op42_09  |      19|    52|2.3.0   |Amelia Brey|Hanné Becker|
+|op42_10  |      25|    45|2.3.0   |Amelia Brey|Hanné Becker|

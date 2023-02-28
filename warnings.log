@@ -1,0 +1,16 @@
+Warnings encountered during the last execution of ms3 review (v1.2.4)
+=====================================================================
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.rachmaninoff_piano.op42_05 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5122) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	           NaN       NaN            15a         }
+Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
+                                     mc  mn mc_onset         label     chord_tones added_tones  n_colored  n_untouched  count_ratio
+rachmaninoff_piano MS3/op42_06.mscx   5   5      1/2        V/#iii      (7, 11, 8)          ()        5.0          0.0     1.000000
+                   MS3/op42_06.mscx   6   6      1/2        V/#iii      (7, 11, 8)          ()        5.0          0.0     1.000000
+                   MS3/op42_06.mscx  11  11      1/2        V/#iii      (7, 11, 8)          ()        5.0          0.0     1.000000
+                   MS3/op42_08.mscx   2   2      1/2           iv2  (-1, 1, -2, 2)          ()        4.0          2.0     0.666667
+                   MS3/op42_08.mscx   9   9        0            V+      (3, 7, 11)          ()        7.0          4.0     0.636364
+                   MS3/op42_08.mscx  10  10      1/2     biii6/III    (-7, -3, -4)          ()        5.0          0.0     1.000000
+                   MS3/op42_08.mscx  11  11      1/4  viio65/V/III  (2, -1, -4, 5)          ()        5.0          3.0     0.625000

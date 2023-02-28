@@ -839,7 +839,6 @@
               <tpc>16</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -4336,13 +4335,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|IAC</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4495,7 +4488,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(^#7)</name>
+            <name>iv7(^#14)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4723,13 +4716,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/III|PAC</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>I/III</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5089,13 +5076,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|IAC</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>i|EC</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

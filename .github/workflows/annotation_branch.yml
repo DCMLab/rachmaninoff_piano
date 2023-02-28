@@ -9,8 +9,7 @@ on:
 jobs:
   ms3_review:
     if: >
-     github.event.head_commit.message == 'trigger_workflow'
-     || (github.event.pusher.name != 'ms3-bot' &&  github.event.pusher.name != 'github-actions[bot]')
+     (github.event.pusher.name != 'ms3-bot' &&  github.event.pusher.name != 'github-actions[bot]')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout corpus repository
@@ -22,10 +21,10 @@ jobs:
           path: ${{ github.event.repository.name }}
 
       - name: Run 'ms3 review' via dcml_corpus_workflow action
-        uses: DCMLab/dcml_corpus_workflow@v2.6.0 # Uses an action in the root directory
+        uses: DCMLab/dcml_corpus_workflow@v2.6.2
         id: act_docker
         with:
-          ms3-command: "push"
+          ms3-command: ${{ github.event_name }}
         env:
           Token: "${{ secrets.MS3_BOT_TOKEN }}"
           commitFrom: "" # it start from main branch

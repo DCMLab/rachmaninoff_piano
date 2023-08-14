@@ -5431,13 +5431,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(4)/i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>#viio7(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -5469,13 +5463,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -7235,13 +7223,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(4)/i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>viio7(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -7464,13 +7446,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

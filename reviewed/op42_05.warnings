@@ -1,0 +1,7 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.rachmaninoff_piano.op42_05 --
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	           NaN       NaN            15a         }

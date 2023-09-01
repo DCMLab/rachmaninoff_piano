@@ -730,7 +730,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -1169,11 +1168,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="5.25488" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -1223,11 +1217,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="5.45443" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -1467,11 +1456,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="14.8334" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -1856,11 +1840,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="5.25488" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -1911,11 +1890,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="5.45443" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2148,7 +2122,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2266,12 +2239,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="10.2665" y="2.69021"/>
-                <off2 x="6.64306" y="0"/>
-                <minDistance>-1.42108e-16</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2282,12 +2249,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.69021"/>
-                <off2 x="6.84436" y="0"/>
-                <minDistance>-1.42108e-16</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2837,12 +2798,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.20438"/>
-                <off2 x="14.8334" y="0"/>
-                <minDistance>-1.42108e-16</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -3400,7 +3355,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(13)</name>
+            <name>VIM7(13)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3478,13 +3433,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iv</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/iv-V7(9)/iv</name>
-            <color r="0" g="85" b="0" a="255"/>
+            <name>V7(9)/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3718,9 +3667,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0.199552" y="0.399104"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4143,7 +4089,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr43(#0)}</name>
+            <name>Fr43(#0)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4233,7 +4179,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i{</name>
+            <name>i|PC}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -4354,9 +4300,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0.199552" y="0.399104"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4548,7 +4491,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(13)</name>
+            <name>VIM7(13)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

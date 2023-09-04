@@ -1889,7 +1889,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2</name>
+            <name>#viio2</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1947,7 +1947,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2483,6 +2483,10 @@
             <offset x="1.43304" y="-2.08096"/>
             <text>sempre marcato</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I}{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -2533,12 +2537,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          </voice>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I}{</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>

@@ -4266,7 +4266,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/bVI</name>
+            <name>V/bI</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4403,7 +4403,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI</name>
+            <name>bI</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -4741,7 +4741,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2/iv</name>
+            <name>#viio2/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5636,7 +5636,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>bIV</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -5937,7 +5937,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43/iv</name>
+            <name>#viio43/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6235,7 +6235,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(9)</name>
+            <name>#viio7(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

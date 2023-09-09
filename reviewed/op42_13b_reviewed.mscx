@@ -1061,7 +1061,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>85</pitch>
               <tpc>9</tpc>
               <small>1</small>
@@ -1070,7 +1069,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               <small>1</small>
@@ -1124,7 +1122,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               <small>1</small>
@@ -4569,12 +4566,12 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#i%65</name>
+            <name>i%65</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i%65</name>
+            <name>bi+M65</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
@@ -5715,13 +5712,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bI.iii[Ger/vi]</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>bI.iii[Ger/ii]</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>

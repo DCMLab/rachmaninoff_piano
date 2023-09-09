@@ -1,0 +1,48 @@
+mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	special	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	0	2.0	0	0	3/4	2	1	d.iv43{	d	i		iv43		iv		43				{	mm7	1	1	0, -3, -1, -4		-1	0
+1	1	2	1.0	1/2	1/2	3/4	2	1	iv43(+6)	d	i		iv43(+6)		iv		43	+6				mm7	1	1	0, -3, -1, -4	2	-1	0
+2	2	3	3.0	0	0	3/4	2	1	V43/#vi	d	i		V43/#vi		V		43		#vi			Mm7	1	1	5, 2, 4, 8		4	5
+3	3	6	2.0	0	0	3/4	2	1	V43/VII	d	i		V43/VII		V		43		VII			Mm7	1	1	0, -3, -1, 3		-1	0
+3	3	8	1.0	1/2	1/2	3/4	2	1	V43(+6)/VII	d	i		V43(+6)/VII		V		43	+6	VII			Mm7	1	1	0, -3, -1, 3	2	-1	0
+4	4	9	3.0	0	0	3/4	2	1	#vii(+#6)	d	i		#vii(+#6)		#vii			+#6				m	1	1	5, 2, 6	8	5	5
+5	5	12	3.0	0	0	3/4	2	1	v6	d	i		v6		v		6					m	1	1	-2, 2, 1		1	-2
+6	6	15	21.0	0	0	3/4	2	1	#vi[V7/VI]	d	i	#vi	V7/VI		V		7		VI			Mm7	1	1	-3, 1, -2, -5		-3	-3
+6	6	36	4.0	21/4	21/4	3/4	2	1	i6	d	i		i6		i		6					m	1	1	-3, 1, 0		0	-3
+6	6	40	2.0	25/4	25/4	3/4	2	1	iio	d	i		iio		ii	o						o	1	1	2, -1, -4		2	2
+6	6	42	2.0	27/4	27/4	3/4	2	1	V2/VI	d	i		V2/VI		V		2		VI			Mm7	1	1	-5, -3, 1, -2		-3	-5
+6	6	44	3.0	29/4	29/4	3/4	2	1	bIM2	d	i		bIM2		bI	M	2					MM7	1	1	-2, -7, -3, -6		-7	-2
+6	6	47	2.0	8	8	3/4	2	1	It	d	i		It	It	vii	o	6	b3	V			It	1	1	-4, 0, 6		6	-4
+6	6	49	1.0	17/2	17/2	3/4	2	1	v	d	i		v		v							m	1	1	1, -2, 2		1	1
+6	6	50	9.0	35/4	35/4	3/4	2	1	V2(b2)/VI	d	i		V2(b2)/VI		V		2	b2	VI			Mm7	1	1	-5, -8, 1, -2		-3	-5
+6	6	58	0.0	43/4	43/4	3/4	2	1	}	d	i										}		1	1				
+6	6	117/2	0.0	87/8	87/8	3/4	2	1	{	d	i										{		1	1				
+7	7	59	2.0	0	0	3/4	2	1	ii%7/bII	d	i		ii%7/bII		ii	%	7		bII			%7	1	1	-3, -6, -9, -5		-3	-3
+7	7	61	1.0	1/2	1/2	3/4	2	1	ii%7(+9)/bII	d	i		ii%7(+9)/bII		ii	%	7	+9	bII			%7	1	1	-3, -6, -9, -5	-1	-3	-3
+8	8	62	3.0	0	0	3/4	2	1	V43	d	i		V43		V		43					Mm7	1	1	2, -1, 1, 5		1	2
+9	9	65	2.0	0	0	3/4	2	1	V43/bII	d	i		V43/bII		V		43		bII			Mm7	1	1	-3, -6, -4, 0		-4	-3
+9	9	67	1.0	1/2	1/2	3/4	2	1	V43(+13)/bII	d	i		V43(+13)/bII		V		43	+13	bII			Mm7	1	1	-3, -6, -4, 0	-1	-4	-3
+10	10	68	3.0	0	0	3/4	2	1	vii%65	d	i		vii%65		vii	%	65					%7	1	1	-5, -8, -4, -2		-2	-5
+11	11	71	3.0	0	0	3/4	2	1	vii6	d	i		vii6		vii		6					m	1	1	-5, -1, -2		-2	-5
+12	12	74	20.0	0	0	3/4	2	1	#vi[Ger65/VII]	d	i	#vi	Ger65/VII	Ger	vii	o	65	b3	V/VII			Ger	1	1	-6, -2, -5, 4		4	-6
+13	13	94	33.0	0	0	3/4	2	2	bI.iii[Ger/vi]	d	bI	iii	Ger/vi	Ger	vii	o	65	b3	V/vi			Ger	1	0	-1, 3, 0, 9		9	-1
+14	13	127	1.0	0	0	3/4	2	1	bVII64	d	bI		bVII64		bVII		64					M	1	0	-1, -2, 2		-2	-1
+14	13	128	1.0	1/4	1/4	3/4	2	1	vi64	d	bI		vi64		vi		64					m	1	0	4, 3, 0		3	4
+14	13	129	1.0	1/2	1/2	3/4	2	1	#v64	d	bI		#v64		#v		64					m	1	0	9, 8, 5		8	9
+14	13	130	1.0	3/4	3/4	3/4	2	1	V64	d	bI		V64		V		64					M	1	0	2, 1, 5		1	2
+14	13	131	1.0	1	1	3/4	2	1	#iv64	d	bI		#iv64		#iv		64					m	1	0	7, 6, 3		6	7
+14	13	132	1.0	5/4	5/4	3/4	2	1	IV64	d	bI		IV64		IV		64					M	1	0	0, -1, 3		-1	0
+14	13	133	1.0	3/2	3/2	3/4	2	1	iiio64	d	bI		iiio64		iii	o	64					o	1	0	-2, 4, 1		4	-2
+14	13	134	1.0	7/4	7/4	3/4	2	1	ii64	d	bI		ii64		ii		64					m	1	0	3, 2, -1		2	3
+14	13	135	1.0	2	2	3/4	2	1	#i64	d	bI		#i64		#i		64					m	1	0	8, 7, 4		7	8
+14	13	136	1.0	9/4	9/4	3/4	2	1	I64	d	bI		I64		I		64					M	1	0	1, 0, 4		0	1
+14	13	137	1.0	5/2	5/2	3/4	2	1	bVII64	d	bI		bVII64		bVII		64					M	1	0	-1, -2, 2		-2	-1
+14	13	138	1.0	11/4	11/4	3/4	2	1	vi64	d	bI		vi64		vi		64					m	1	0	4, 3, 0		3	4
+14	13	139	2.0	3	3	3/4	2	1	iiM2	d	bI		iiM2		ii	M	2					mM7	1	0	7, 2, -1, 3		2	7
+14	13	141	2.0	7/2	7/2	3/4	2	1	I2	d	bI		I2		I		2					Mm7	1	0	-2, 0, 4, 1		0	-2
+14	13	143	2.0	4	4	3/4	2	1	VIM2	d	bI		VIM2		VI	M	2					MM7	1	0	8, 3, 7, 4		3	8
+14	13	145	3.0	9/2	9/2	3/4	2	1	Fr2/ii	d	bI		Fr2/ii	Fr	V		2	b5	V/ii			Fr	1	0	2, 4, 8, -2		4	2
+14	13	148	3.0	21/4	21/4	3/4	2	1	viM7	d	bI		viM7		vi	M	7					mM7	1	0	3, 0, 4, 8		3	3
+14	13	151	2.0	6	6	3/4	2	1	V2	d	bI		V2		V		2					Mm7	1	0	-1, 1, 5, 2		1	-1
+14	13	153	1.0	13/2	13/2	3/4	2	1	vi64	d	bI		vi64		vi		64					m	1	0	4, 3, 0		3	4
+14	13	154	3.0	27/4	27/4	3/4	2	1	V2/vi	d	bI		V2/vi		V		2		vi			Mm7	1	0	2, 4, 8, 5		4	2
+14	13	156	0.0	29/4	29/4	3/4	2	1	}	d	bI										}		1	0				

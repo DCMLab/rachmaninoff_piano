@@ -4460,7 +4460,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#i%65</name>
+            <name>i%65</name>
             </Harmony>
           <location>
             <fractions>1/1</fractions>
@@ -5580,7 +5580,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bI.iii[Ger/vi]</name>
+            <name>bI.iii[Ger/ii]</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>

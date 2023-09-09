@@ -4577,7 +4577,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>#i%65</name>
             </Harmony>
           <location>
             <fractions>1/1</fractions>
@@ -5200,7 +5200,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65</name>
+            <name>#vii%65</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>

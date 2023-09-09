@@ -2362,8 +2362,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               <small>1</small>
               </Note>
             </Chord>
@@ -2379,8 +2382,11 @@
             <staffMove>1</staffMove>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               <small>1</small>
               </Note>
             </Chord>
@@ -2388,8 +2394,11 @@
             <staffMove>1</staffMove>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <small>1</small>
               </Note>
             </Chord>
@@ -2404,8 +2413,11 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
               <small>1</small>
               </Note>
             </Chord>
@@ -2426,8 +2438,11 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>44</pitch>
+              <tpc>10</tpc>
               <small>1</small>
               </Note>
             </Chord>
@@ -2435,8 +2450,8 @@
             <staffMove>1</staffMove>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
               <small>1</small>
               </Note>
             </Chord>
@@ -2444,8 +2459,8 @@
             <staffMove>1</staffMove>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <small>1</small>
               </Note>
             </Chord>
@@ -2453,8 +2468,8 @@
             <staffMove>1</staffMove>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
               <small>1</small>
               </Note>
             </Chord>
@@ -4445,7 +4460,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>#i%65</name>
             </Harmony>
           <location>
             <fractions>1/1</fractions>
@@ -5057,7 +5072,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65</name>
+            <name>#vii%65</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -5299,7 +5314,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi[Ger65/VII]</name>
+            <name>i[Ger65/VII]</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>

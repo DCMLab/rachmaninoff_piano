@@ -2414,7 +2414,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v/iv{</name>
+            <name>iv/iv{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -2710,7 +2710,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v(#11)/iv</name>
+            <name>iv(#11)/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4185,7 +4185,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vM43/iv</name>
+            <name>ivM43/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4493,7 +4493,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger65/iv</name>
+            <name>Ger65/iv/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -6121,7 +6121,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2(#124)/iv</name>
+            <name>#viio2(#124)/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -6227,7 +6227,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2(#124)/iv</name>
+            <name>#viio2(#124)/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>

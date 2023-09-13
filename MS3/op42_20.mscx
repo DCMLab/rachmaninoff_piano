@@ -9223,7 +9223,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[VIM4|EC}{3</name>
+            <name>VIM4|EC}{3</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -9688,7 +9688,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(4^#2)]</name>
+            <name>VI(4^#2)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -13371,14 +13371,14 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataBelow</subtype>
-            <placement>below</placement>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataBelow</subtype>
+            <placement>below</placement>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">

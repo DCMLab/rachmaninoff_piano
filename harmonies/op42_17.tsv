@@ -3,8 +3,8 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globa
 2	2	15/2	4.5	7/8	7/8	4/4	2	1	v	d	i		v		v							m	1	1	1, -2, 2		1	1
 4	4	12	1.5	0	0	2/4	2	1	v(+#6)	d	i		v(+#6)		v			+#6				m	1	1	1, -2, 2	4	1	1
 4	4	13	0.0	1/4	1/4	2/4	2	1	}	d	i										}		1	1				
-4	4	27/2	6.5	3/8	3/8	2/4	2	1	v/iv{	d	i		v/iv		v				iv		{	m	1	1	0, -3, 1		0	0
-6	6	20	1.5	1/2	1/2	4/4	2	1	v(#11)/iv	d	i		v(#11)/iv		v			#11	iv			m	1	1	0, -3, 1	6	0	0
+4	4	27/2	6.5	3/8	3/8	2/4	2	1	iv/iv{	d	i		iv/iv		iv				iv		{	m	1	1	-2, -5, -1		-2	-2
+6	6	20	1.5	1/2	1/2	4/4	2	1	iv(#11)/iv	d	i		iv(#11)/iv		iv			#11	iv			m	1	1	-2, -5, -1	4	-2	-2
 6	6	43/2	4.5	7/8	7/8	4/4	2	1	iv	d	i		iv		iv							m	1	1	-1, -4, 0		-1	-1
 7	7	22	0.0	0	0	4/4	2	1	}{	d	i										}{		1	1				
 8	8	26	1.5	0	0	2/4	2	1	iv(#11)	d	i		iv(#11)		iv			#11				m	1	1	-1, -4, 0	5	-1	-1
@@ -17,10 +17,10 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globa
 12	12	40	0.0	0	0	6/4	2	1	}{	d	i										}{		1	1				
 12	12	91/2	2.5	11/8	11/8	6/4	2	1	#iii	d	i		#iii		#iii							m	1	1	4, 1, 5		4	4
 13	13	48	2.0	1/2	1/2	6/4	2	1	#iii(+#6)	d	i		#iii(+#6)		#iii			+#6				m	1	1	4, 1, 5	7	4	4
-13	13	50	1.5	1	1	6/4	2	1	vM43/iv	d	i		vM43/iv		v	M	43		iv			mM7	1	1	1, 5, 0, -3		0	1
+13	13	50	1.5	1	1	6/4	2	1	ivM43/iv	d	i		ivM43/iv		iv	M	43		iv			mM7	1	1	-1, 3, -2, -5		-2	-1
 13	13	103/2	2.5	11/8	11/8	6/4	2	1	bV	d	i		bV		bV							M	1	1	-6, -2, -5		-6	-6
 14	14	54	2.0	1/2	1/2	6/4	2	1	bV(13)	d	i		bV(13)		bV			13				M	1	1	-6, -2, -5	-3	-6	-6
-14	14	56	1.5	1	1	6/4	2	1	Ger65/iv	d	i		Ger65/iv	Ger	vii	o	65	b3	V/iv			Ger	1	1	-5, -1, -4, 5		5	-5
+14	14	56	1.5	1	1	6/4	2	1	Ger65/iv/iv	d	i		Ger65/iv/iv	Ger	vii	o	65	b3	V/iv/iv			Ger	1	1	-6, -2, -5, 4		4	-6
 14	14	115/2	4.5	11/8	11/8	6/4	2	1	ii	d	i		ii		ii							m	1	1	2, -1, 3		2	2
 15	15	62	1.5	1	1	6/4	2	1	ii(#13)	d	i		ii(#13)		ii			#13				m	1	1	2, -1, 3	5	2	2
 15	15	127/2	2.5	11/8	11/8	6/4	2	1	iv	d	i		iv		iv							m	1	1	-1, -4, 0		-1	-1
@@ -35,7 +35,7 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globa
 20	20	80	5.5	0	0	4/4	2	1	iv7|DC}{	d	i		iv7		iv		7			DC	}{	mm7	1	1	-1, -4, 0, -3		-1	-1
 21	21	171/2	2.5	3/8	3/8	4/4	2	1	ivM7(#11)	d	i		ivM7(#11)		iv	M	7	#11				mM7	1	1	-1, -4, 0, 4	5	-1	-1
 22	22	88	1.5	0	0	4/4	2	1	i|PC	d	i		i		i					PC		m	1	1	0, -3, 1		0	0
-22	22	179/2	0.5	3/8	3/8	4/4	2	1	viio2(#124)/iv	d	i		viio2(#124)/iv		vii	o	2	#124	iv			o7	1	1	-12, -3, -4, -9	-2	-3	-12
+22	22	179/2	0.5	3/8	3/8	4/4	2	1	#viio2(#124)/iv	d	i		#viio2(#124)/iv		#vii	o	2	#124	iv			o7	1	1	-5, 4, -4, -2	5	4	-5
 22	22	90	1.5	1/2	1/2	4/4	2	1	i	d	i		i		i							m	1	1	0, -3, 1		0	0
-22	22	183/2	0.5	7/8	7/8	4/4	2	1	viio2(#124)/iv	d	i		viio2(#124)/iv		vii	o	2	#124	iv			o7	1	1	-12, -3, -4, -9	-2	-3	-12
+22	22	183/2	0.5	7/8	7/8	4/4	2	1	#viio2(#124)/iv	d	i		#viio2(#124)/iv		#vii	o	2	#124	iv			o7	1	1	-5, 4, -4, -2	5	4	-5
 23	23	92	4.0	0	0	4/4	2	1	i}	d	i		i		i						}	m	1	1	0, -3, 1		0	0

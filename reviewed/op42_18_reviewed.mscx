@@ -3212,15 +3212,9 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>1</subtype>
-                <offset x="0.180079" y="-4.33028"/>
-                <off2 x="0" y="0"/>
-                <minDistance>0</minDistance>
                 </Segment>
               </Ottava>
             <next>
@@ -5146,6 +5140,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio7(4)/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio7(4)/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

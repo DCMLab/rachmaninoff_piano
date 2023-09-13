@@ -12983,7 +12983,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(94)</name>
+            <name>IV64(94)</name>
             </Harmony>
           <Tuplet>
             <visible>0</visible>
@@ -13456,14 +13456,14 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataBelow</subtype>
-            <placement>below</placement>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataBelow</subtype>
+            <placement>below</placement>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">

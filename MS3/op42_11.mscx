@@ -3444,7 +3444,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii-V/V</name>
+            <name>V64-V/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

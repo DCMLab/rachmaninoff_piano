@@ -4479,6 +4479,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>II65(#6b2)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>

@@ -1699,11 +1699,6 @@
         </Measure>
       <Measure>
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>7</sigN>
-            <sigD>8</sigD>
-            </TimeSig>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -1720,8 +1715,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="-0.348561" y="-4.91708"/>
-            <dots>1</dots>
+            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           <BarLine>
@@ -1771,35 +1765,46 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.522841" y="-0.348561"/>
-                  </SlurSegment>
-                <up>up</up>
-                </Slur>
-              <next>
-                <location>
-                  <staves>1</staves>
-                  <voices>-1</voices>
-                  <fractions>5/24</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
             </Chord>
           <endTuplet/>
-          <Rest>
+          <Tuplet>
             <visible>0</visible>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <visible>0</visible>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <visible>0</visible>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Chord>
             <durationType>eighth</durationType>
-            </Rest>
+            <Note>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <endTuplet/>
           </voice>
         </Measure>
       </Staff>
@@ -2489,11 +2494,6 @@
         </Measure>
       <Measure>
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>7</sigN>
-            <sigD>8</sigD>
-            </TimeSig>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -2511,44 +2511,14 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Chord>
-            <BeamMode>begin32</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <staves>-1</staves>
-                  <voices>1</voices>
-                  <fractions>-5/24</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
+          <Rest>
+            <visible>0</visible>
+            <durationType>quarter</durationType>
+            </Rest>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>

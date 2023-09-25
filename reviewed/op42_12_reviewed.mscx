@@ -498,7 +498,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -2108,6 +2107,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#IVM43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#IIIM43</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -3187,13 +3192,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>V7(+#9)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -3699,13 +3698,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-2.25191" y="2.59312"/>
-                  <o2 x="0.110629" y="-1.77006"/>
-                  <o3 x="0.110629" y="-1.77006"/>
-                  <o4 x="-3.54848" y="1.36479"/>
-                  <offset x="0.383589" y="-0.674053"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -3717,13 +3709,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.0682399" y="-2.93432"/>
-                  <o2 x="-0.3412" y="2.93432"/>
-                  <o3 x="-0.614159" y="3.61672"/>
-                  <o4 x="-1.16007" y="-6.82399"/>
-                  <offset x="-2.93432" y="18.2883"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>

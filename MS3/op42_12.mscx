@@ -2100,7 +2100,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#IVM43</name>
+            <name>#IIIM43</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -3676,13 +3676,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-2.25191" y="2.59312"/>
-                  <o2 x="0.110629" y="-1.77006"/>
-                  <o3 x="0.110629" y="-1.77006"/>
-                  <o4 x="-3.54848" y="1.36479"/>
-                  <offset x="0.383589" y="-0.674053"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -3694,13 +3687,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.0682399" y="-2.93432"/>
-                  <o2 x="-0.3412" y="2.93432"/>
-                  <o3 x="-0.614159" y="3.61672"/>
-                  <o4 x="-1.16007" y="-6.82399"/>
-                  <offset x="-2.93432" y="18.2883"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>

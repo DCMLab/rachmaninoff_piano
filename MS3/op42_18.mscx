@@ -3486,6 +3486,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
@@ -3501,7 +3502,10 @@
             </Chord>
           <Rest>
             <BeamMode>mid</BeamMode>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
             </Rest>
           <BarLine>
             <subtype>double</subtype>
@@ -6859,7 +6863,10 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>eighth</durationType>
             </Rest>
           <BarLine>
             <subtype>double</subtype>

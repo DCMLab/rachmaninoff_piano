@@ -5013,7 +5013,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV7</name>
+            <name>VI</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5045,6 +5045,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">

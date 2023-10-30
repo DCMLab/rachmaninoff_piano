@@ -4586,7 +4586,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+M7</name>
+            <name>III+(7)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

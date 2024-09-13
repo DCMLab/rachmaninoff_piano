@@ -106,7 +106,7 @@
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/Variations_on_a_Theme_of_Corelli%2C_Op.42_(Rachmaninoff%2C_Sergei)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber">18</metaTag>
+    <metaTag name="movementNumber">20</metaTag>
     <metaTag name="movementTitle">Variation 18</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/a5cf8acd-06dc-3355-b536-f456c8e95bce</metaTag>
@@ -4286,7 +4286,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio65/III</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4312,7 +4311,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4335,7 +4333,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4367,7 +4364,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4398,7 +4394,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III64</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4584,7 +4579,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(b9)/bII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4614,7 +4608,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4664,7 +4657,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III6(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -4691,7 +4683,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII64</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5048,13 +5039,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5089,7 +5074,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

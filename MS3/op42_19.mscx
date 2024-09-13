@@ -308,6 +308,12 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
+          <Tempo>
+            <tempo>2.4000000000000004</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 96</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -5384,7 +5390,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/V/V-V7/V/V</name>
+            <name>viio2/V/V-V7/V/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

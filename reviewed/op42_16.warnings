@@ -1,0 +1,7 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 4: ') ms3.Parse.rachmaninoff_piano.op42_16
+	MC 4: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 4: ') ms3.Parse.rachmaninoff_piano.op42_16
+	MC 4: #vii in major context corrected to vii.

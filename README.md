@@ -22,9 +22,9 @@
 |op42_15  |      26|    66|2.3.0   |Amelia Brey|DK          |
 |op42_16  |      15|    58|2.3.0   |Amelia Brey|DK          |
 |op42_17  |      23|    40|2.3.0   |Amelia Brey|DK          |
-|op42_18  |      16|     0|        |           |            |
-|op42_19  |      17|    99|2.3.0   |Amelia Brey|Victor Zheng|
-|op42_20  |      44|     0|        |           |            |
+|op42_18  |      16|    50|2.3.0   |Amelia Brey|Victor Zheng|
+|op42_19  |      17|     0|        |           |            |
+|op42_20  |      44|   101|2.3.0   |Amelia Brey|Victor Zheng|
 
 
 *Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*

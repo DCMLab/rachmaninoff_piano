@@ -107,7 +107,7 @@
     <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/Variations_on_a_Theme_of_Corelli%2C_Op.42_(Rachmaninoff%2C_Sergei)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber">20</metaTag>
+    <metaTag name="movementNumber">22</metaTag>
     <metaTag name="movementTitle">Variation 20</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/a5cf8acd-06dc-3355-b536-f456c8e95bce</metaTag>
@@ -8505,13 +8505,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6}{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>i6|EC}{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -8895,13 +8889,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>VI64</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -9273,7 +9261,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[VIM43|EC}{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -9738,13 +9725,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(4^#2)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>VI(4^#2)]</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -10417,13 +10398,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2(#5)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>#vii2</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

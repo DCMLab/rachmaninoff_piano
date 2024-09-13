@@ -1,0 +1,51 @@
+mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	0	3.5	0	0	9/8	2	1	d.i{	d	i		i	i						{	m	1	1	0, -3, 1		0	0
+1	1	7/2	0.5	7/8	7/8	9/8	2	1	viio2/V	d	i		viio2/V	vii	o	2		V			o7	1	1	-3, 6, 3, 0		6	-3
+1	1	4	5.0	1	1	9/8	2	1	V	d	i		V	V							M	1	1	1, 5, 2		1	1
+3	3	9	4.0	0	0	9/8	2	1	i	d	i		i	i							m	1	1	0, -3, 1		0	0
+3	3	13	0.5	1	1	9/8	2	1	ii6	d	i		ii6	ii		6					m	1	1	-1, 3, 2		2	-1
+4	4	27/2	4.5	0	0	9/8	2	1	V/III	d	i		V/III	V				III			M	1	1	-2, 2, -1		-2	-2
+5	5	18	0.75	0	0	9/8	2	1	III|IAC}{	d	i		III	III					IAC	}{	M	1	1	-3, 1, -2		-3	-3
+5	5	75/4	0.25	3/16	3/16	9/8	2	1	viio65/III	d	i		viio65/III	vii	o	65		III			o7	1	1	-1, -4, -7, 2		2	-1
+5	5	19	0.5	1/4	1/4	9/8	2	1	III6	d	i		III6	III		6					M	1	1	1, -2, -3		-3	1
+5	5	39/2	0.75	3/8	3/8	9/8	2	1	III	d	i		III	III							M	1	1	-3, 1, -2		-3	-3
+5	5	81/4	0.25	9/16	9/16	9/8	2	1	iv(4)	d	i		iv(4)	iv			4				m	1	1	-1, -2, 0		-1	-1
+5	5	41/2	0.5	5/8	5/8	9/8	2	1	III64	d	i		III64	III		64					M	1	1	-2, -3, 1		-3	-2
+5	5	21	0.5	3/4	3/4	9/8	2	1	V(4)/III	d	i		V(4)/III	V			4	III			M	1	1	-2, -3, -1		-2	-2
+5	5	43/2	0.5	7/8	7/8	9/8	2	1	V/III	d	i		V/III	V				III			M	1	1	-2, 2, -1		-2	-2
+5	5	22	0.5	1	1	9/8	2	1	bII+64	d	i		bII+64	bII	+	64					+	1	1	3, -5, -1		-5	3
+6	6	45/2	0.75	0	0	9/8	2	1	bII	d	i		bII	bII							M	1	1	-5, -1, -4		-5	-5
+6	6	93/4	0.25	3/16	3/16	9/8	2	1	V(b9)/bII	d	i		V(b9)/bII	V			b9	bII			M	1	1	-4, 0, -3	-9	-4	-4
+6	6	47/2	1.25	1/4	1/4	9/8	2	1	bII	d	i		bII	bII							M	1	1	-5, -1, -4		-5	-5
+6	6	99/4	0.25	9/16	9/16	9/8	2	1	III6(4)	d	i		III6(4)	III		6	4				M	1	1	-4, -2, -3		-3	-4
+6	6	25	0.5	5/8	5/8	9/8	2	1	bII64	d	i		bII64	bII		64					M	1	1	-4, -5, -1		-5	-4
+6	6	51/2	0.5	3/4	3/4	9/8	2	1	V(4)/bII	d	i		V(4)/bII	V			4	bII			M	1	1	-4, -5, -3		-4	-4
+6	6	26	0.5	7/8	7/8	9/8	2	1	V/bII	d	i		V/bII	V				bII			M	1	1	-4, 0, -3		-4	-4
+6	6	53/2	0.5	1	1	9/8	2	1	III+6	d	i		III+6	III	+	6					+	1	1	1, 5, -3		-3	1
+7	7	27	3.5	0	0	9/8	2	1	i	d	i		i	i							m	1	1	0, -3, 1		0	0
+7	7	61/2	1.0	7/8	7/8	9/8	2	1	VI+64	d	i		VI+64	VI	+	64					+	1	1	4, -4, 0		-4	4
+8	8	63/2	0.5	0	0	9/8	2	1	VI	d	i		VI	VI							M	1	1	-4, 0, -3		-4	-4
+8	8	32	1.0	1/8	1/8	9/8	2	1	IV	d	i		IV	IV							M	1	1	-1, 3, 0		-1	-1
+8	8	33	0.5	3/8	3/8	9/8	2	1	#vi%7	d	i		#vi%7	#vi	%	7					%7	1	1	3, 0, -3, 1		3	3
+8	8	67/2	1.0	1/2	1/2	9/8	2	1	viio7(4)/V	d	i		viio7(4)/V	vii	o	7	4	V			o7	1	1	6, 5, 0, -3		6	6
+8	8	69/2	0.5	3/4	3/4	9/8	2	1	i2	d	i		i2	i		2					mm7	1	1	-2, 0, -3, 1		0	-2
+8	8	35	1.0	7/8	7/8	9/8	2	1	V(6)	d	i		V(6)	V			6				M	1	1	1, 5, -3		1	1
+9	9	36	3.5	0	0	9/8	2	1	i|IAC}{	d	i		i	i					IAC	}{	m	1	1	0, -3, 1		0	0
+9	9	79/2	0.5	7/8	7/8	9/8	2	1	viio2/V	d	i		viio2/V	vii	o	2		V			o7	1	1	-3, 6, 3, 0		6	-3
+9	9	40	4.25	1	1	9/8	2	1	V	d	i		V	V							M	1	1	1, 5, 2		1	1
+10	10	177/4	0.75	15/16	15/16	9/8	2	1	V7	d	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
+11	11	45	4.0	0	0	9/8	2	1	i	d	i		i	i							m	1	1	0, -3, 1		0	0
+11	11	49	0.5	1	1	9/8	2	1	ii64	d	i		ii64	ii		64					m	1	1	3, 2, -1		2	3
+12	12	99/2	4.5	0	0	9/8	2	1	V/III	d	i		V/III	V				III			M	1	1	-2, 2, -1		-2	-2
+13	13	54	3.0	0	0	9/8	2	1	III|IAC}{	d	i		III	III					IAC	}{	M	1	1	-3, 1, -2		-3	-3
+13	13	57	0.5	3/4	3/4	9/8	2	1	V(4)/III	d	i		V(4)/III	V			4	III			M	1	1	-2, -3, -1		-2	-2
+13	13	115/2	0.5	7/8	7/8	9/8	2	1	V/III	d	i		V/III	V				III			M	1	1	-2, 2, -1		-2	-2
+13	13	58	0.5	1	1	9/8	2	1	bII+64	d	i		bII+64	bII	+	64					+	1	1	3, -5, -1		-5	3
+14	14	117/2	3.0	0	0	9/8	2	1	iv	d	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
+14	14	123/2	0.5	3/4	3/4	9/8	2	1	V(4)/iv	d	i		V(4)/iv	V			4	iv			M	1	1	0, -1, 1		0	0
+14	14	62	0.5	7/8	7/8	9/8	2	1	V/iv	d	i		V/iv	V				iv			M	1	1	0, 4, 1		0	0
+14	14	125/2	0.5	1	1	9/8	2	1	III+64	d	i		III+64	III	+	64					+	1	1	5, -3, 1		-3	5
+15	15	63	3.0	0	0	9/8	2	1	vi	d	i		vi	vi							m	1	1	-4, -7, -3		-4	-4
+15	15	66	1.5	3/4	3/4	9/8	2	1	V(6)	d	i		V(6)	V			6				M	1	1	1, 5, -3		1	1
+16	16	135/2	4.5	0	0	9/8	2	1	i|PAC	d	i		i	i					PAC		m	1	1	0, -3, 1		0	0
+16	16	141/2	0.0	3/4	3/4	9/8	2	1	}	d	i									}		1	1				

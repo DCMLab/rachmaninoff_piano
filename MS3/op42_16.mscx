@@ -202,11 +202,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>XVI</text>
+          <text>Variations on a Theme of Corelli, op. 42</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>Variation 16</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>Rachmaninoff</text>
+          <text>Sergei Rachmaninoff</text>
           </Text>
         </VBox>
       <Measure len="1/8">

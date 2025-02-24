@@ -139,11 +139,11 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Klavier</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <longName>Klavier</longName>
-        <shortName>Flgl.</shortName>
-        <trackName>Klavier</trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
@@ -195,10 +195,6 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <synti>Fluid</synti>
-          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -207,11 +203,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>Variation XX</text>
+          <text>Variations on a Theme of Corelli, op. 42</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>Variation 20</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>Rachmaninoff</text>
+          <text>Sergei Rachmaninoff</text>
           </Text>
         </VBox>
       <Measure>

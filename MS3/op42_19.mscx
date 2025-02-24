@@ -138,9 +138,9 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Klavier</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <trackName>Klavier</trackName>
+        <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
@@ -194,12 +194,8 @@
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
           </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <synti>Fluid</synti>
-          <midiPort>0</midiPort>
-          <midiChannel>2</midiChannel>
-          </Channel>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
         </Instrument>
       </Part>
     <Part>
@@ -219,10 +215,10 @@
         <defaultClef>F</defaultClef>
         <hideWhenEmpty>1</hideWhenEmpty>
         </Staff>
-      <trackName>Klavier</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <longName>Ossia</longName>
-        <trackName>Klavier</trackName>
+        <longName>Piano</longName>
+        <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
@@ -276,6 +272,7 @@
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
           </Channel>
+        <shortName>Pno.</shortName>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -284,11 +281,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>Var. XIX</text>
+          <text>Variations on a Theme of Corelli, op. 42</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>Variation 19</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>Rachmaninoff</text>
+          <text>Sergei Rachmaninoff</text>
           </Text>
         </VBox>
       <Measure>

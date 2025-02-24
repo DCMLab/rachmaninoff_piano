@@ -205,7 +205,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
+          <text>Variations on a Theme of Corelli, op. 42</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
           <text>Variation 11</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Sergei Rachmaninoff</text>
           </Text>
         </VBox>
       <Measure>

@@ -96,9 +96,11 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Amelia Brey</metaTag>
+    <metaTag name="P86 (composer)">Q131861</metaTag>
+    <metaTag name="annotators">0000-0002-6329-7492</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1931</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Variations_on_a_Theme_of_Corelli</metaTag>
     <metaTag name="composed_start">1931</metaTag>
     <metaTag name="composer">Sergei Rachmaninoff</metaTag>
     <metaTag name="copyright"></metaTag>
@@ -109,15 +111,16 @@
     <metaTag name="movementNumber">21</metaTag>
     <metaTag name="movementTitle">Variation 19</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
-    <metaTag name="musicbrainz">https://musicbrainz.org/work/a5cf8acd-06dc-3355-b536-f456c8e95bce</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/ec71484b-8e01-428b-b26f-a8febff60b4c</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/2058</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Victor Zheng</metaTag>
-    <metaTag name="score_integrity">Amelia Brey</metaTag>
+    <metaTag name="reviewers">VZ</metaTag>
+    <metaTag name="score_integrity">0000-0002-6329-7492</metaTag>
     <metaTag name="source">https://imslp.hk/files/imglnks/euimg/d/d7/IMSLP02058-Rachmaninoff_-_Corelli_Variations.pdf</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="typesetter">Matthias Schabow</metaTag>
-    <metaTag name="viaf">https://viaf.org/viaf/294081839/</metaTag>
+    <metaTag name="viaf">https://viaf.org/en/viaf/309874393</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q155132</metaTag>
     <metaTag name="workNumber">op. 42</metaTag>
     <metaTag name="workTitle">Variations on a Theme of Corelli</metaTag>
@@ -312,7 +315,7 @@
             <tempo>2.4000000000000004</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 96</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 96</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>

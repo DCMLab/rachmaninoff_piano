@@ -2077,9 +2077,6 @@
           </voice>
         </Measure>
       <Measure len="20/4">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>

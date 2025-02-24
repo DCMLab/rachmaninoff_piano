@@ -788,9 +788,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -1457,9 +1454,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <StaffText>
             <placement>below</placement>
@@ -1711,10 +1705,15 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>3</subtype>
                 <offset x="-0.0687206" y="-3.42512"/>
                 <off2 x="0.26002" y="0"/>
                 <minDistance>0</minDistance>
+                </Segment>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="0" y="-2"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
             <next>

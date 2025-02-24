@@ -9,16 +9,10 @@
     <Style>
       <pageWidth>8.27008</pageWidth>
       <pageHeight>11.6902</pageHeight>
-      <pagePrintableWidth>7.48268</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.787402</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
-      <pageOddBottomMargin>0.787402</pageOddBottomMargin>
+      <pageEvenLeftMargin>0.592913</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
       <createMultiMeasureRests>1</createMultiMeasureRests>
-      <Spatium>1.364</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -4289,6 +4283,10 @@
             <sigN>6</sigN>
             <sigD>8</sigD>
             </TimeSig>
+          <StaffText>
+            <offset x="0.532637" y="-2.2121"/>
+            <text>rit.- - - - - - - - - - - -</text>
+            </StaffText>
           <Rest>
             <durationType>measure</durationType>
             <duration>6/8</duration>
@@ -4315,7 +4313,7 @@
         </Measure>
       <HBox>
         <width>4.69227</width>
-        <topGap>7</topGap>
+        <topGap>5.456</topGap>
         <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure>
@@ -5384,7 +5382,7 @@
               <tpc>13</tpc>
               </Note>
             <Arpeggio>
-              <offset x="-0.192002" y="0.480005"/>
+              <offset x="-0.149652" y="0.37413"/>
               <subtype>0</subtype>
               </Arpeggio>
             </Chord>
@@ -5656,7 +5654,7 @@
               <tpc>17</tpc>
               </Note>
             <Arpeggio>
-              <offset x="0.206448" y="-1.23869"/>
+              <offset x="0.160911" y="-0.96547"/>
               <subtype>0</subtype>
               </Arpeggio>
             </Chord>
@@ -10583,10 +10581,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <offset x="-2.78403" y="-11.7719"/>
-            <text>rit.- - - - - - - - - - - -</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>

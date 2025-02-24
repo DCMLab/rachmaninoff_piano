@@ -9,15 +9,9 @@
     <Style>
       <pageWidth>8.27008</pageWidth>
       <pageHeight>11.6902</pageHeight>
-      <pagePrintableWidth>7.48268</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.787402</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
-      <pageOddBottomMargin>0.787402</pageOddBottomMargin>
+      <pageEvenLeftMargin>0.592913</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
-      <Spatium>1.364</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -4043,7 +4037,6 @@
       </Staff>
     <Staff id="2">
       <Measure>
-        <vspacerDown>11.5093</vspacerDown>
         <voice>
           <KeySig>
             <accidental>-1</accidental>
@@ -8781,11 +8774,11 @@
             </Chord>
           <Rest>
             <visible>0</visible>
-            <durationType>half</durationType>
+            <durationType>eighth</durationType>
             </Rest>
           <Rest>
             <visible>0</visible>
-            <durationType>eighth</durationType>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -10273,15 +10266,11 @@
             </Chord>
           <Rest>
             <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
             <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <visible>0</visible>
-            <durationType>16th</durationType>
-            </Rest>
-          <Rest>
-            <visible>0</visible>
-            <durationType>16th</durationType>
             </Rest>
           </voice>
         </Measure>

@@ -234,6 +234,14 @@
             <tempo>1.18333</tempo>
             <text>Adagio misterioso</text>
             </Tempo>
+          <Tempo>
+            <tempo>1.05</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <minDistance>-6.2651</minDistance>
+            <offset x="0" y="-3.75955"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 63</b></text>
+            </Tempo>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>

@@ -235,6 +235,12 @@
             <offset x="0.709669" y="-8.26406"/>
             <text>cantabile</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.5333333333333332</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 92</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>

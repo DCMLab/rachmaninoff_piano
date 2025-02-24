@@ -232,6 +232,12 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
+          <Tempo>
+            <tempo>2.3999999999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 144</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

@@ -235,6 +235,12 @@
             <velocity>49</velocity>
             <offset x="-1.8866" y="5.73485"/>
             </Dynamic>
+          <Tempo>
+            <tempo>2.7000000000000002</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 108</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>

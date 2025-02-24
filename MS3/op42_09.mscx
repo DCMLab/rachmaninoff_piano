@@ -230,6 +230,12 @@
             <velocity>49</velocity>
             <offset x="-1.21841" y="4.46747"/>
             </Dynamic>
+          <Tempo>
+            <tempo>1.3333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 80</b></text>
+            </Tempo>
           <Rest>
             <durationType>16th</durationType>
             </Rest>

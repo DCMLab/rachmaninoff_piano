@@ -233,6 +233,12 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
+          <Tempo>
+            <tempo>2.1000000000000001</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 126</b></text>
+            </Tempo>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>

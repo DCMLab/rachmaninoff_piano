@@ -226,6 +226,12 @@
             <offset x="-0.260633" y="-4.10887"/>
             <text>Andante</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.5333333333333332</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 92</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -652,9 +658,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0.130317" y="-1.5638"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -707,9 +710,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="-0.130317" y="1.17285"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -975,9 +975,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="1.17285"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1028,9 +1025,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="-0.130317" y="0.7819"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1064,9 +1058,6 @@
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0.260633" y="-1.30317"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1152,9 +1143,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0.521267" y="-0.7819"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1208,9 +1196,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0.130317" y="2.3457"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1256,9 +1241,6 @@
             <durationType>half</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0.39095" y="-1.95475"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1703,9 +1685,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0.130317" y="1.82443"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1759,9 +1738,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="-0.130317" y="1.5638"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1848,9 +1824,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="-0.7819"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1902,9 +1875,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="0.39095"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1936,9 +1906,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="2.08507"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>

@@ -1,5 +1,14 @@
 # Variations on a Theme of Corelli, Op. 42
 
+This corpus of annotated [MuseScore](https://musescore.org) files has been created within
+the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
+the [DCML harmony annotation standard](https://github.com/DCMLab/standards).
+It represents Sergei Rachmaninoff's virtuosic op. 42 Variations (1931). This work, written on Lake Lucerne in Switzerland, reflects the style of the composer's reticent late period. The title is something of a misnomer, as the theme is in fact the traditional La Folia, used widely by composers of the 17th and 18th centuries including Vivaldi, Händel, and indeed Corelli. Rachmaninoff tears this venerable theme to shreds with pianistic pyrotechnics so difficult that the composer himself, champion of the instrument that he was, found them unplayable. Our annotations reveal the tonal substance out of which this cycle's impressive digressions and interpolations are forged, and comparing the outputs of each of these variations should provide fertile ground for quantitative study of variational technique.
+
+## Scores
+
+These scores were specially typeset for this project by Matthias Schabow following the reissued 1931 first edition, which is itself available via the IMSLP MIT Archive Project.
+
 ## Overview
 |file_name|measures|labels|standard|    annotators     |     reviewers     |
 |---------|-------:|-----:|--------|-------------------|-------------------|

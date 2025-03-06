@@ -227,6 +227,12 @@
             <offset x="-0.258812" y="-2.80879"/>
             <text>dolcissimo</text>
             </StaffText>
+          <Tempo>
+            <tempo>2.25</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 90</b></text>
+            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>

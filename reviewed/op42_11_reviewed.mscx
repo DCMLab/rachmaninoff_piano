@@ -223,6 +223,12 @@
           <StaffText>
             <text>Allegro vivace</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.9333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 116</b></text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">

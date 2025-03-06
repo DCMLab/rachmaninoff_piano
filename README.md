@@ -15,7 +15,7 @@
 |op42_03  |      16|    52|2.3.0   |Amelia Brey|DK          |
 |op42_04  |      16|    22|2.3.0   |Amelia Brey|DK          |
 |op42_11  |      16|    54|2.3.0   |Amelia Brey|DK          |
-|op42_12  |      23|    70|2.3.0   |Amelia Brey|DK          |
+|op42_12  |      23|    69|2.3.0   |Amelia Brey|DK          |
 |op42_13a |      17|    69|2.3.0   |Amelia Brey|DK          |
 |op42_13b |      13|    47|2.3.0   |Amelia Brey|DK          |
 |op42_14  |      16|    35|2.3.0   |Amelia Brey|DK          |

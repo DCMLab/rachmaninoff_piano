@@ -223,6 +223,12 @@
             <offset x="-4.30045" y="-7.19048"/>
             <text>Tempo di Menuetto</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.3999999999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 84</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -3772,7 +3778,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger65/i</name>
+            <name>i7(b5)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

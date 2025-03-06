@@ -232,6 +232,12 @@
             <offset x="0.851831" y="-2.51844"/>
             <text>marcato</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.3333333333333333</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Articulation>

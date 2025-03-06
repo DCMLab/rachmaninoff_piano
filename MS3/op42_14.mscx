@@ -160,10 +160,10 @@
             <text>cantabile</text>
             </StaffText>
           <Tempo>
-            <tempo>1.5333333333333332</tempo>
+            <tempo>1.4666666666666666</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 92</b></text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 88</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>

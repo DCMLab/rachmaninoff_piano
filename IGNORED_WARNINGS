@@ -1,0 +1,35 @@
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 8, '0', 'V|HC}') ms3.Parse.rachmaninoff_piano.op42_01b
+	The label 'V|HC}' in m. 8, onset 0 (MC 8, onset 0) is correct and the rest are passing notes.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 5, '1/2', 'V/#iii') ms3.Parse.rachmaninoff_piano.op42_06
+	The label 'V/#iii' in m. 5, onset 1/2 (MC 5, onset 1/2) expresses enharmonically the notes Csharp - Db, Esharp -F, and Gsharp - Ab.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 6, '1/2', 'V/#iii') ms3.Parse.rachmaninoff_piano.op42_06
+	The label 'V/#iii' in m. 6, onset 1/2 (MC 6, onset 1/2) is an enharmonic spelling.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '1/2', 'V/#iii') ms3.Parse.rachmaninoff_piano.op42_06
+	The label 'V/#iii' in m. 11, onset 1/2 (MC 11, onset 1/2) is an enharmonic spelling.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 2, '1/2', 'iv2') ms3.Parse.rachmaninoff_piano.op42_08
+	The label 'iv2' in m. 2, onset 1/2 (MC 2, onset 1/2) pertains to the strong beat chord and what follows thereafter is passing
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '0', 'V+') ms3.Parse.rachmaninoff_piano.op42_08
+	The label 'V+' in m. 9, onset 0 (MC 9, onset 0) is plausible as an enharmonic interpetation where E sharp is equivalent to F natural
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 10, '1/2', 'biii6/III') ms3.Parse.rachmaninoff_piano.op42_08
+	The label 'biii6/III' in m. 10, onset 1/2 (MC 10, onset 1/2) is plausible
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '1/4', 'viio65/V/III') ms3.Parse.rachmaninoff_piano.op42_08
+	The label 'viio65/V/III' in m. 11, onset 1/4 (MC 11, onset 1/4) does happen metrically and is obscured by rests and passing tones
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 7, '0', 'v64') ms3.Parse.rachmaninoff_piano.op42_11
+	The label 'v64' in m. 7, onset 0 (MC 7, onset 0) is valid and falls on the strong beat thereafter follow passing tones
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 12, '0', 'v/bI') ms3.Parse.rachmaninoff_piano.op42_11
+	The label 'v/bI' in m. 12, onset 0 (MC 12, onset 0) is a valid interpretation in terms of what follows
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 15, '0', 'i64') ms3.Parse.rachmaninoff_piano.op42_11
+	The label 'i64' in m. 15, onset 0 (MC 15, onset 0) same idea as in 7
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 17, '1/2', 'V7/ii') ms3.Parse.rachmaninoff_piano.op42_12
+	The label 'V7/ii' in m. 17, onset 1/2 (MC 17, onset 1/2) works in terms of the enharmonic equivalent tones.

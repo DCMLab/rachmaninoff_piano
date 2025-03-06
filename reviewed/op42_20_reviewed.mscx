@@ -9,97 +9,21 @@
     <Style>
       <pageWidth>8.27008</pageWidth>
       <pageHeight>11.6902</pageHeight>
-      <pagePrintableWidth>7.48268</pagePrintableWidth>
-      <lyricsMinDistance>0.25</lyricsMinDistance>
-      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
-      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-      <lyricsOddFontSize>10</lyricsOddFontSize>
-      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-      <lyricsEvenFontSize>10</lyricsEvenFontSize>
-      <barWidth>0.18</barWidth>
-      <doubleBarWidth>0.18</doubleBarWidth>
-      <endBarWidth>0.55</endBarWidth>
-      <doubleBarDistance>0.55</doubleBarDistance>
-      <endBarDistance>0.7</endBarDistance>
-      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
-      <bracketWidth>0.44</bracketWidth>
-      <stemWidth>0.11</stemWidth>
-      <staffLineWidth>0.11</staffLineWidth>
-      <ledgerLineLength>0.35</ledgerLineLength>
-      <hairpinWidth>0.12</hairpinWidth>
-      <hairpinFontFace>Edwin</hairpinFontFace>
-      <hairpinFontSize>10</hairpinFontSize>
-      <pedalLineWidth>0.11</pedalLineWidth>
-      <pedalFontFace>Edwin</pedalFontFace>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
-      <chordSymbolAFontSize>11</chordSymbolAFontSize>
-      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
-      <chordSymbolBFontSize>11</chordSymbolBFontSize>
-      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <pageEvenLeftMargin>0.592913</pageEvenLeftMargin>
+      <enableVerticalSpread>1</enableVerticalSpread>
       <createMultiMeasureRests>1</createMultiMeasureRests>
-      <slurMidWidth>0.21</slurMidWidth>
-      <musicalSymbolFont>Leland</musicalSymbolFont>
-      <musicalTextFont>Leland Text</musicalTextFont>
-      <voltaLineWidth>0.11</voltaLineWidth>
-      <ottavaLineWidth>0.11</ottavaLineWidth>
-      <ottavaFontFace>Edwin</ottavaFontFace>
-      <tupletFontFace>Edwin</tupletFontFace>
-      <tupletFontSize>9</tupletFontSize>
-      <defaultFontFace>Edwin</defaultFontFace>
-      <titleFontFace>Edwin</titleFontFace>
-      <titleFontSize>22</titleFontSize>
-      <subTitleFontFace>Edwin</subTitleFontFace>
-      <subTitleFontSize>16</subTitleFontSize>
-      <composerFontFace>Edwin</composerFontFace>
-      <composerFontSize>10</composerFontSize>
-      <lyricistFontFace>Edwin</lyricistFontFace>
-      <lyricistFontSize>10</lyricistFontSize>
-      <fingeringFontFace>Edwin</fingeringFontFace>
-      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
-      <stringNumberFontFace>Edwin</stringNumberFontFace>
-      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
-      <longInstrumentFontSize>10</longInstrumentFontSize>
-      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
-      <shortInstrumentFontSize>10</shortInstrumentFontSize>
-      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
-      <partInstrumentFontSize>14</partInstrumentFontSize>
-      <dynamicsFontFace>Edwin</dynamicsFontFace>
-      <dynamicsFontSize>11</dynamicsFontSize>
-      <expressionFontFace>Edwin</expressionFontFace>
-      <expressionFontSize>10</expressionFontSize>
-      <tempoFontFace>Edwin</tempoFontFace>
-      <metronomeFontFace>Edwin</metronomeFontFace>
-      <metronomeFontStyle>0</metronomeFontStyle>
-      <measureNumberFontFace>Edwin</measureNumberFontFace>
-      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
-      <measureNumberFontStyle>2</measureNumberFontStyle>
-      <translatorFontFace>Edwin</translatorFontFace>
-      <translatorFontSize>10</translatorFontSize>
-      <systemFontFace>Edwin</systemFontFace>
-      <staffFontFace>Edwin</staffFontFace>
-      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
-      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
-      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-      <repeatLeftFontSize>18</repeatLeftFontSize>
-      <repeatRightFontFace>Edwin</repeatRightFontFace>
-      <repeatRightFontSize>11</repeatRightFontSize>
-      <frameFontFace>Edwin</frameFontFace>
-      <frameFontSize>10</frameFontSize>
-      <usePre_3_6_defaults>1</usePre_3_6_defaults>
-      <defaultsVersion>301</defaultsVersion>
-      <Spatium>1.364</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Amelia Brey</metaTag>
+    <metaTag name="P86 (composer)">Q131861</metaTag>
+    <metaTag name="annotators">0000-0002-6329-7492</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1931</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Variations_on_a_Theme_of_Corelli</metaTag>
     <metaTag name="composed_start">1931</metaTag>
     <metaTag name="composer">Sergei Rachmaninoff</metaTag>
     <metaTag name="copyright"></metaTag>
@@ -110,15 +34,16 @@
     <metaTag name="movementNumber">22</metaTag>
     <metaTag name="movementTitle">Variation 20</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
-    <metaTag name="musicbrainz">https://musicbrainz.org/work/a5cf8acd-06dc-3355-b536-f456c8e95bce</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/192cae17-2fdc-45b9-8ddb-591906bffd73</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/2058</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Victor Zheng</metaTag>
-    <metaTag name="score_integrity">Amelia Brey</metaTag>
+    <metaTag name="reviewers">VZ</metaTag>
+    <metaTag name="score_integrity">0000-0002-6329-7492</metaTag>
     <metaTag name="source">https://imslp.hk/files/imglnks/euimg/d/d7/IMSLP02058-Rachmaninoff_-_Corelli_Variations.pdf</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="typesetter">Matthias Schabow</metaTag>
-    <metaTag name="viaf">https://viaf.org/viaf/294081839/</metaTag>
+    <metaTag name="viaf">https://viaf.org/en/viaf/309874393</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q155132</metaTag>
     <metaTag name="workNumber">op. 42</metaTag>
     <metaTag name="workTitle">Variations on a Theme of Corelli</metaTag>
@@ -136,18 +61,17 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Klavier</trackName>
+      <trackName>Piano</trackName>
       <Instrument id="piano">
-        <longName>Klavier</longName>
-        <shortName>Flgl.</shortName>
-        <trackName>Klavier</trackName>
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.piano</instrumentId>
         <clef staff="2">F</clef>
-        <singleNoteDynamics>0</singleNoteDynamics>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -204,11 +128,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>Variation XX</text>
+          <text>Variations on a Theme of Corelli, op. 42</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>Variation 20</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>Rachmaninoff</text>
+          <text>Sergei Rachmaninoff</text>
           </Text>
         </VBox>
       <Measure>
@@ -1178,9 +1106,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <dots>1</dots>
@@ -1668,9 +1593,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Spanner type="Ottava">
             <Ottava>
@@ -1999,11 +1921,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.967238" y="-7.82156"/>
-                <off2 x="-0.129317" y="0"/>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -2865,12 +2782,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="6.69119" y="-7.45955"/>
-                <off2 x="-6.59519" y="0"/>
-                <minDistance>0</minDistance>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -3010,12 +2921,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="6.46587" y="-7.93955"/>
-                <off2 x="-6.46587" y="0"/>
-                <minDistance>0</minDistance>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -3332,12 +3237,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="6.79904" y="-8.41956"/>
-                <off2 x="-7.75905" y="0"/>
-                <minDistance>0</minDistance>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -3497,12 +3396,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.576005" y="-7.15603"/>
-                <off2 x="0" y="0"/>
-                <minDistance>0</minDistance>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -4405,6 +4298,10 @@
             <sigN>6</sigN>
             <sigD>8</sigD>
             </TimeSig>
+          <StaffText>
+            <offset x="0.532637" y="-2.2121"/>
+            <text>rit.- - - - - - - - - - - -</text>
+            </StaffText>
           <Rest>
             <durationType>measure</durationType>
             <duration>6/8</duration>
@@ -4430,8 +4327,8 @@
           </voice>
         </Measure>
       <HBox>
-        <width>5</width>
-        <topGap>7</topGap>
+        <width>4.69227</width>
+        <topGap>5.456</topGap>
         <boxAutoSize>0</boxAutoSize>
         </HBox>
       <Measure>
@@ -4533,9 +4430,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="-0.0960009" y="-0.576005"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4875,12 +4769,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.0960009" y="-7.54004"/>
-                <off2 x="72.5767" y="0"/>
-                <minDistance>0</minDistance>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -4964,12 +4852,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-4.03204" y="2.85599"/>
-                <off2 x="-8.54408" y="0"/>
-                <minDistance>-9.18855e-17</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5282,9 +5164,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <TimeSig>
             <sigN>3</sigN>
@@ -5421,12 +5300,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0.576005" y="2.47198"/>
-                <off2 x="0" y="0"/>
-                <minDistance>6.43199e-16</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5535,7 +5408,7 @@
               <tpc>13</tpc>
               </Note>
             <Arpeggio>
-              <offset x="-0.192002" y="0.480005"/>
+              <offset x="-0.149652" y="0.37413"/>
               <subtype>0</subtype>
               </Arpeggio>
             </Chord>
@@ -5545,12 +5418,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-0.051612" y="3.63227"/>
-                <off2 x="0" y="0"/>
-                <minDistance>-9.18855e-17</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5562,10 +5429,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.192002" y="0.192002"/>
-                  <o3 x="0.480005" y="0.864008"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -5637,12 +5500,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1.44514" y="3.68388"/>
-                <off2 x="0" y="0"/>
-                <minDistance>-9.18855e-17</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5735,9 +5592,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-4.85153" y="3.56123"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5797,11 +5651,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="-1.59997" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5813,11 +5662,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0.051612" y="0.670956"/>
-                  <o3 x="0.051612" y="0.670956"/>
-                  <offset x="-0.051612" y="0.361284"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -5840,7 +5684,7 @@
               <tpc>17</tpc>
               </Note>
             <Arpeggio>
-              <offset x="0.206448" y="-1.23869"/>
+              <offset x="0.160911" y="-0.96547"/>
               <subtype>0</subtype>
               </Arpeggio>
             </Chord>
@@ -5886,12 +5730,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="5.83216" y="3.99355"/>
-                <off2 x="2.06448" y="0"/>
-                <minDistance>-9.18855e-17</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5902,12 +5740,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0.722568" y="3.99355"/>
-                <off2 x="0" y="0"/>
-                <minDistance>-9.18855e-17</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5990,9 +5822,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -6243,12 +6072,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0.175326" y="-0.175326"/>
-                  <o3 x="0.175326" y="-0.175326"/>
-                  <o4 x="0.964295" y="0.788968"/>
-                  <offset x="-0.262989" y="-2.36691"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6374,10 +6197,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.350653" y="-2.01625"/>
-                  <offset x="0.613642" y="-0.964295"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6387,12 +6206,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.788968" y="2.54223"/>
-                  <o2 x="0.350653" y="-0.262989"/>
-                  <o3 x="0.350653" y="0.525979"/>
-                  <o4 x="1.31495" y="0.0876632"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -6403,10 +6216,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.989819" y="0.640471"/>
-                  <o4 x="1.51384" y="-1.57207"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -10815,10 +10624,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <offset x="-2.78403" y="-11.7719"/>
-            <text>rit.- - - - - - - - - - - -</text>
-            </StaffText>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -11404,10 +11209,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0" y="0.768007"/>
-                  <o3 x="0" y="0.768007"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -11762,9 +11563,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0.0960009" y="1.15201"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -11960,9 +11758,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="0.672006"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -12575,10 +12370,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.480005" y="2.01602"/>
-                  <o4 x="-0.768007" y="2.11202"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12651,12 +12442,6 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0.576005" y="-5.04812"/>
-                <off2 x="-5.47205" y="0"/>
-                <minDistance>-9.18855e-17</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -12818,12 +12603,6 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0.672006" y="-4.95212"/>
-                <off2 x="0" y="0"/>
-                <minDistance>-9.18855e-17</minDistance>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -13291,11 +13070,6 @@
             <TextLine>
               <beginTextPlace>auto</beginTextPlace>
               <diagonal>1</diagonal>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1.22728" y="-1.52598"/>
-                <off2 x="-12.7988" y="-3.06821"/>
-                </Segment>
               </TextLine>
             <next>
               <location>
@@ -13450,9 +13224,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.51384" y="5.53134"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -13462,10 +13233,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.87337" y="-4.2504"/>
-                  <o4 x="2.56188" y="1.16449"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>

@@ -155,10 +155,10 @@
             <text>Allegro vivace</text>
             </StaffText>
           <Tempo>
-            <tempo>2.2000000000000002</tempo>
+            <tempo>1.9333333333333333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 132</b></text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 116</b></text>
             </Tempo>
           <Chord>
             <durationType>16th</durationType>

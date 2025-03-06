@@ -7,95 +7,22 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <lyricsMinDistance>0.25</lyricsMinDistance>
-      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
-      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-      <lyricsOddFontSize>10</lyricsOddFontSize>
-      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-      <lyricsEvenFontSize>10</lyricsEvenFontSize>
-      <barWidth>0.18</barWidth>
-      <doubleBarWidth>0.18</doubleBarWidth>
-      <endBarWidth>0.55</endBarWidth>
-      <doubleBarDistance>0.55</doubleBarDistance>
-      <endBarDistance>0.7</endBarDistance>
-      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
-      <bracketWidth>0.44</bracketWidth>
-      <stemWidth>0.11</stemWidth>
-      <staffLineWidth>0.11</staffLineWidth>
-      <ledgerLineLength>0.35</ledgerLineLength>
-      <hairpinWidth>0.12</hairpinWidth>
-      <hairpinFontFace>Edwin</hairpinFontFace>
-      <hairpinFontSize>10</hairpinFontSize>
-      <pedalLineWidth>0.11</pedalLineWidth>
-      <pedalFontFace>Edwin</pedalFontFace>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
-      <chordSymbolAFontSize>11</chordSymbolAFontSize>
-      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
-      <chordSymbolBFontSize>11</chordSymbolBFontSize>
-      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
-      <slurMidWidth>0.21</slurMidWidth>
-      <musicalSymbolFont>Leland</musicalSymbolFont>
-      <musicalTextFont>Leland Text</musicalTextFont>
-      <voltaLineWidth>0.11</voltaLineWidth>
-      <ottavaLineWidth>0.11</ottavaLineWidth>
-      <ottavaFontFace>Edwin</ottavaFontFace>
-      <tupletFontFace>Edwin</tupletFontFace>
-      <tupletFontSize>9</tupletFontSize>
-      <defaultFontFace>Edwin</defaultFontFace>
-      <titleFontFace>Edwin</titleFontFace>
-      <titleFontSize>22</titleFontSize>
-      <subTitleFontFace>Edwin</subTitleFontFace>
-      <subTitleFontSize>16</subTitleFontSize>
-      <composerFontFace>Edwin</composerFontFace>
-      <composerFontSize>10</composerFontSize>
-      <lyricistFontFace>Edwin</lyricistFontFace>
-      <lyricistFontSize>10</lyricistFontSize>
-      <fingeringFontFace>Edwin</fingeringFontFace>
-      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
-      <stringNumberFontFace>Edwin</stringNumberFontFace>
-      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
-      <longInstrumentFontSize>10</longInstrumentFontSize>
-      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
-      <shortInstrumentFontSize>10</shortInstrumentFontSize>
-      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
-      <partInstrumentFontSize>14</partInstrumentFontSize>
-      <dynamicsFontFace>Edwin</dynamicsFontFace>
-      <dynamicsFontSize>11</dynamicsFontSize>
-      <expressionFontFace>Edwin</expressionFontFace>
-      <expressionFontSize>10</expressionFontSize>
-      <tempoFontFace>Edwin</tempoFontFace>
-      <metronomeFontFace>Edwin</metronomeFontFace>
-      <metronomeFontStyle>0</metronomeFontStyle>
-      <measureNumberFontFace>Edwin</measureNumberFontFace>
-      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
-      <measureNumberFontStyle>2</measureNumberFontStyle>
-      <translatorFontFace>Edwin</translatorFontFace>
-      <translatorFontSize>10</translatorFontSize>
-      <systemFontFace>Edwin</systemFontFace>
-      <staffFontFace>Edwin</staffFontFace>
-      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
-      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
-      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-      <repeatLeftFontSize>18</repeatLeftFontSize>
-      <repeatRightFontFace>Edwin</repeatRightFontFace>
-      <repeatRightFontSize>11</repeatRightFontSize>
-      <frameFontFace>Edwin</frameFontFace>
-      <frameFontSize>10</frameFontSize>
-      <usePre_3_6_defaults>1</usePre_3_6_defaults>
-      <defaultsVersion>301</defaultsVersion>
-      <Spatium>1.76389</Spatium>
+      <pageWidth>8.27008</pageWidth>
+      <pageHeight>11.6902</pageHeight>
+      <pageEvenLeftMargin>0.592913</pageEvenLeftMargin>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Amelia Brey</metaTag>
+    <metaTag name="P86 (composer)">Q131861</metaTag>
+    <metaTag name="annotators">0000-0002-6329-7492</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1931</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Variations_on_a_Theme_of_Corelli</metaTag>
     <metaTag name="composed_start">1931</metaTag>
     <metaTag name="composer">Sergei Rachmaninoff</metaTag>
     <metaTag name="copyright"></metaTag>
@@ -106,15 +33,16 @@
     <metaTag name="movementNumber">5</metaTag>
     <metaTag name="movementTitle">Variation 4</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
-    <metaTag name="musicbrainz">https://musicbrainz.org/work/a5cf8acd-06dc-3355-b536-f456c8e95bce</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/70902075-dafb-4f0f-b4d0-98e00a3301e1</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/2058</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">DK</metaTag>
-    <metaTag name="score_integrity">Amelia Brey</metaTag>
+    <metaTag name="reviewers">0000-0002-6588-2257</metaTag>
+    <metaTag name="score_integrity">0000-0002-6329-7492</metaTag>
     <metaTag name="source">https://imslp.hk/files/imglnks/euimg/d/d7/IMSLP02058-Rachmaninoff_-_Corelli_Variations.pdf</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="typesetter">Matthias Schabow</metaTag>
-    <metaTag name="viaf">https://viaf.org/viaf/294081839/</metaTag>
+    <metaTag name="viaf">https://viaf.org/en/viaf/309874393</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q155132</metaTag>
     <metaTag name="workNumber">op. 42</metaTag>
     <metaTag name="workTitle">Variations on a Theme of Corelli</metaTag>
@@ -199,7 +127,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
+          <text>Variations on a Theme of Corelli, op. 42</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
           <text>Variation 4</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Sergei Rachmaninoff</text>
           </Text>
         </VBox>
       <Measure>
@@ -216,6 +152,12 @@
 
 </text>
             </StaffText>
+          <Tempo>
+            <tempo>1.3666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 82</b></text>
+            </Tempo>
           <Rest>
             <offset x="0" y="-0.974917"/>
             <durationType>quarter</durationType>
@@ -368,8 +310,8 @@
             </Rest>
           <Beam>
             <Fragment>
-              <y1>-3.39655</y1>
-              <y2>-3.39655</y2>
+              <y1>-3.42351</y1>
+              <y2>-3.42351</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -480,8 +422,8 @@
             </Rest>
           <Beam>
             <Fragment>
-              <y1>-3.28459</y1>
-              <y2>-3.28459</y2>
+              <y1>-3.31066</y1>
+              <y2>-3.31066</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -640,9 +582,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <offset x="0" y="-2.74635"/>
@@ -736,9 +675,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.46238" y="-0.121865"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -1262,12 +1198,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="-4.3111" y="-4.74061"/>
-                <off2 x="4.212" y="0"/>
-                <minDistance>0</minDistance>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -1277,17 +1207,14 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-3</y1>
-              <y2>-3.04599</y2>
+              <y1>-3.02381</y1>
+              <y2>-3.07017</y2>
               </Fragment>
             </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.23882" y="1.18927"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -1719,9 +1646,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <offset x="0" y="6.02508"/>
@@ -1851,9 +1775,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.1" y="0"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -1915,12 +1836,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.139053" y="-0.834316"/>
-                  <o2 x="0.347632" y="-2.3639"/>
-                  <o3 x="0.347632" y="-2.3639"/>
-                  <o4 x="6.74405" y="-0.139053"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -2970,10 +2885,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.27958" y="-0.182797"/>
-                  <offset x="0.182797" y="-0.0609323"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -3563,9 +3474,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.23882" y="0.0991059"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -4010,9 +3918,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.1" y="0"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>

@@ -159,10 +159,10 @@
             <text>Tempo di Menuetto</text>
             </StaffText>
           <Tempo>
-            <tempo>1.2</tempo>
+            <tempo>1.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 72</b></text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 84</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -3704,7 +3704,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger65/i</name>
+            <name>i7(b5)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

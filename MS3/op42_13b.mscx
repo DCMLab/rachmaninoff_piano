@@ -166,10 +166,10 @@
             <text>marcato</text>
             </StaffText>
           <Tempo>
-            <tempo>1.5333333333333332</tempo>
+            <tempo>1.3333333333333333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 92</b></text>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
           <Chord>
             <durationType>half</durationType>

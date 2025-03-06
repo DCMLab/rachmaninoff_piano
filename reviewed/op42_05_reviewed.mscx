@@ -222,6 +222,12 @@
           <StaffText>
             <text>Allegro (ma non tanto)</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.8666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 112</b></text>
+            </Tempo>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -3059,6 +3065,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(^2)-I(^2){</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(^2){</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>

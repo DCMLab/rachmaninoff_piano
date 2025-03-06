@@ -156,10 +156,10 @@
             <velocity>49</velocity>
             </Dynamic>
           <Tempo>
-            <tempo>1.8666666666666667</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 112</b></text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 96</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>

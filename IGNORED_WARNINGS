@@ -31,3 +31,5 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 12, '0', 'v/bI') ms3.Parse.rac
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 15, '0', 'i64') ms3.Parse.rachmaninoff_piano.op42_11
 	The label 'i64' in m. 15, onset 0 (MC 15, onset 0) same idea as in 7
 
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 17, '1/2', 'V7/ii') ms3.Parse.rachmaninoff_piano.op42_12
+	The label 'V7/ii' in m. 17, onset 1/2 (MC 17, onset 1/2) works in terms of the enharmonic equivalent tones.

@@ -1,9 +1,45 @@
-# Variations on a Theme of Corelli, Op. 42
+![Version](https://img.shields.io/github/v/release/DCMLab/rachmaninoff_piano?display_name=tag)
+[![DOI](https://zenodo.org/badge/520217150.svg)](https://zenodo.org/badge/latestdoi/520217150)
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/rachmaninoff_piano)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
+
+
+This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
+and serves as welcome page for both 
+
+* the GitHub repo [https://github.com/DCMLab/rachmaninoff_piano](https://github.com/DCMLab/rachmaninoff_piano) and the corresponding
+* documentation page [https://dcmlab.github.io/rachmaninoff_piano](https://dcmlab.github.io/rachmaninoff_piano)
+
+For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/rachmaninoff_piano/introduction).
+
+# Sergei Rachmaninoff – Variations on a Theme of Corelli, Op. 42
 
 This corpus of annotated [MuseScore](https://musescore.org) files has been created within
 the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
 the [DCML harmony annotation standard](https://github.com/DCMLab/standards).
-It represents Sergei Rachmaninoff's virtuosic op. 42 Variations (1931). This work, written on Lake Lucerne in Switzerland, reflects the style of the composer's reticent late period. The title is something of a misnomer, as the theme is in fact the traditional La Folia, used widely by composers of the 17th and 18th centuries including Vivaldi, Händel, and indeed Corelli. Rachmaninoff tears this venerable theme to shreds with pianistic pyrotechnics so difficult that the composer himself, champion of the instrument that he was, found them unplayable. Our annotations reveal the tonal substance out of which this cycle's impressive digressions and interpolations are forged, and comparing the outputs of each of these variations should provide fertile ground for quantitative study of variational technique.
+It represents Sergei Rachmaninoff's virtuosic op. 42 Variations (1931). This work, written on Lake Lucerne in
+Switzerland, reflects the style of the composer's reticent late period. The title is something of a misnomer, as the
+theme is in fact the traditional La Folia, used widely by composers of the 17th and 18th centuries including Vivaldi,
+Händel, and indeed Corelli. Rachmaninoff tears this venerable theme to shreds with pianistic pyrotechnics so difficult
+that the composer himself, champion of the instrument that he was, found them unplayable. Our annotations reveal the
+tonal substance out of which this cycle's impressive digressions and interpolations are forged, and comparing the
+outputs of each of these variations should provide fertile ground for quantitative study of variational technique.
+
+## Cite as
+
+## Version history
+
+See the [GitHub releases](https://github.com/DCMLab/rachmaninoff_piano/releases).
+
+## Questions, Suggestions, Corrections, Bug Reports
+
+Please [create an issue](https://github.com/DCMLab/rachmaninoff_piano/issues) and/or feel free to fork and submit pull requests.
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+
+![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 
 ## Scores
 

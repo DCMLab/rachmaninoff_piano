@@ -152,10 +152,10 @@
 </text>
             </StaffText>
           <Tempo>
-            <tempo>1.5333333333333332</tempo>
+            <tempo>1.3666666666666667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 92</b></text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 82</b></text>
             </Tempo>
           <Rest>
             <offset x="0" y="-0.974917"/>

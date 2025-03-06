@@ -216,6 +216,12 @@
 
 </text>
             </StaffText>
+          <Tempo>
+            <tempo>1.3666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 82</b></text>
+            </Tempo>
           <Rest>
             <offset x="0" y="-0.974917"/>
             <durationType>quarter</durationType>

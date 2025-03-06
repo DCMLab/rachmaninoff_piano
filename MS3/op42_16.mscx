@@ -3886,7 +3886,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii%2/V/III</name>
+            <name>vii%2/V/III</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>

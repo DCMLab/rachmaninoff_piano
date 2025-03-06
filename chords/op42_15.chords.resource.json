@@ -170,10 +170,6 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
         "name": "crescendo_line",
         "type": "string"
       },
@@ -182,13 +178,17 @@
         "type": "string"
       },
       {
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
         "name": "diminuendo_line",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "_L7lGgEQoWC8zg",
-    "filepath": "chords/_L7lGgEQoWC8zg.schema.yaml",
+    "identifier": "rlkm_v92Qlc1gA",
+    "filepath": "chords/rlkm_v92Qlc1gA.schema.yaml",
     "used_in": "op42_15"
   },
   "creator": {
@@ -203,6 +203,6 @@
     },
     "softwareVersion": "2.5.4"
   },
-  "git_revision": "71432329d5d79c63cc4b1a4bc81357cac0111f87",
-  "git_tag": "7143232"
+  "git_revision": "36a8d91d0c44e720ac0b1b03875ebaa9e67fbfea",
+  "git_tag": "v2.0-43-g36a8d91"
 }

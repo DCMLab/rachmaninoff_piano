@@ -1,14 +1,14 @@
-mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	system_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	crescendo_hairpin	decrescendo_hairpin
+mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	system_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	decrescendo_hairpin	crescendo_hairpin
 1	1	0	0	0.0	0	0	Dynamic	3/4	1	1	0				p											
 1	1	0	0	0.0	0	0	StaffText	3/4	1	1	0						Tempo di Menuetto									
 1	1	0	0	0.0	0	0	Tempo	3/4	1	1	0								𝅘𝅥=84	84.0	𝅘𝅥	84.0	0.0			
 1	1	0	0	0.5	0	0	Chord	3/4	1	1	1/8	1/8	1	0		articStaccatoAbove										
-1	1	1/2	1/2	0.0	1/8	1/8	Spanner	3/4	1	1	0														0	
-1	1	1/2	1/2	0.25	1/8	1/8	Chord	3/4	1	1	1/16	1/16	1	1										0	0	
+1	1	1/2	1/2	0.0	1/8	1/8	Spanner	3/4	1	1	0															0
+1	1	1/2	1/2	0.25	1/8	1/8	Chord	3/4	1	1	1/16	1/16	1	1										0		0
 1	1	3/4	3/4	0.0	3/16	3/16	Spanner	3/4	1	1	0													0		
 1	1	3/4	3/4	0.25	3/16	3/16	Chord	3/4	1	1	1/16	1/16	1	2										0		
-1	1	1	1	0.0	1/4	1/4	Spanner	3/4	1	1	0															0
-1	1	1	1	1.5	1/4	1/4	Chord	3/4	1	1	3/8	1/4	3/2	3		articTenutoAbove										0
+1	1	1	1	0.0	1/4	1/4	Spanner	3/4	1	1	0														0	
+1	1	1	1	1.5	1/4	1/4	Chord	3/4	1	1	3/8	1/4	3/2	3		articTenutoAbove									0	
 1	1	5/2	5/2	0.0	5/8	5/8	Dynamic	3/4	1	1	0				p											
 1	1	5/2	5/2	0.0	5/8	5/8	Spanner	3/4	1	1	0															
 1	1	0	0	0.5	0	0	Chord	3/4	2	1	1/8	1/8	1	4		articStaccatoAbove								1		
@@ -28,11 +28,11 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	
 3	3	13/2	13/2	0.25	1/8	1/8	Chord	3/4	1	1	1/16	1/16	1	16										4		
 3	3	27/4	27/4	0.25	3/16	3/16	Chord	3/4	1	1	1/16	1/16	1	17												
 3	3	7	7	0.5	1/4	1/4	Chord	3/4	1	1	1/8	1/8	1	18		articStaccatoAbove										
-3	3	15/2	15/2	0.0	3/8	3/8	Spanner	3/4	1	1	0														1	
-3	3	15/2	15/2	0.5	3/8	3/8	Chord	3/4	1	1	1/8	1/8	1	19		articStaccatoAbove									1	
+3	3	15/2	15/2	0.0	3/8	3/8	Spanner	3/4	1	1	0															1
+3	3	15/2	15/2	0.5	3/8	3/8	Chord	3/4	1	1	1/8	1/8	1	19		articStaccatoAbove										1
 3	3	8	8	0.0	1/2	1/2	Spanner	3/4	1	1	0															
-3	3	8	8	0.0	1/2	1/2	Spanner	3/4	1	1	0															1
-3	3	8	8	1.0	1/2	1/2	Chord	3/4	1	1	1/4	1/4	1	20		articTenutoAbove										1
+3	3	8	8	0.0	1/2	1/2	Spanner	3/4	1	1	0														1	
+3	3	8	8	1.0	1/2	1/2	Chord	3/4	1	1	1/4	1/4	1	20		articTenutoAbove									1	
 3	3	6	6	0.5	0	0	Chord	3/4	2	1	1/8	1/8	1	21		articStaccatoAbove										
 3	3	13/2	13/2	0.5	1/8	1/8	Chord	3/4	2	1	1/8	1/8	1	22		articStaccatoAbove										
 3	3	7	7	0.5	1/4	1/4	Chord	3/4	2	1	1/8	1/8	1	23		articStaccatoAbove										

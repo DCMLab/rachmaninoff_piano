@@ -174,11 +174,11 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
@@ -187,8 +187,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "BJ64TqQlh_S7VA",
-    "filepath": "chords/BJ64TqQlh_S7VA.schema.yaml",
+    "identifier": "KqLLDnVHqiyqXQ",
+    "filepath": "chords/KqLLDnVHqiyqXQ.schema.yaml",
     "used_in": "op42_04"
   },
   "creator": {
@@ -203,6 +203,6 @@
     },
     "softwareVersion": "2.5.4"
   },
-  "git_revision": "71432329d5d79c63cc4b1a4bc81357cac0111f87",
-  "git_tag": "7143232"
+  "git_revision": "36a8d91d0c44e720ac0b1b03875ebaa9e67fbfea",
+  "git_tag": "v2.0-43-g36a8d91"
 }

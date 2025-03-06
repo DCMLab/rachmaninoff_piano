@@ -224,6 +224,12 @@
             <offset x="-0.260633" y="-4.10887"/>
             <text>Andante</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.4666666666666666</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 88</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Note>

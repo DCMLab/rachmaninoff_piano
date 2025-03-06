@@ -220,6 +220,12 @@
             <velocity>49</velocity>
             <offset x="-3.22987" y="3.31279"/>
             </Dynamic>
+          <Tempo>
+            <tempo>1.4666666666666666</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 88</b></text>
+            </Tempo>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>

@@ -155,10 +155,10 @@
             <offset x="-1.21841" y="4.46747"/>
             </Dynamic>
           <Tempo>
-            <tempo>1.3333333333333333</tempo>
+            <tempo>1.6666666666666667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 80</b></text>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
             </Tempo>
           <Rest>
             <durationType>16th</durationType>

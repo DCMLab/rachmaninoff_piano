@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/rachmaninoff_piano?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+[![DOI](https://zenodo.org/badge/520217150.svg)](https://zenodo.org/badge/latestdoi/520217150)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/rachmaninoff_piano)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 

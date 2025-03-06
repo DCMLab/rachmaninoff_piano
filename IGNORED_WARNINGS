@@ -1,3 +1,11 @@
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 8, '0', 'V|HC}') ms3.Parse.rachmaninoff_piano.op42_01b
 	The label 'V|HC}' in m. 8, onset 0 (MC 8, onset 0) is correct and the rest are passing notes.
 
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 5, '1/2', 'V/#iii') ms3.Parse.rachmaninoff_piano.op42_06
+	The label 'V/#iii' in m. 5, onset 1/2 (MC 5, onset 1/2) expresses enharmonically the notes Csharp - Db, Esharp -F, and Gsharp - Ab.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 6, '1/2', 'V/#iii') ms3.Parse.rachmaninoff_piano.op42_06
+	The label 'V/#iii' in m. 6, onset 1/2 (MC 6, onset 1/2) is an enharmonic spelling.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '1/2', 'V/#iii') ms3.Parse.rachmaninoff_piano.op42_06
+	The label 'V/#iii' in m. 11, onset 1/2 (MC 11, onset 1/2) is an enharmonic spelling.

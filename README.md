@@ -14,6 +14,16 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # Sergei Rachmaninoff – Variations on a Theme of Corelli, Op. 42
 
+This corpus of annotated [MuseScore](https://musescore.org) files has been created within
+the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
+the [DCML harmony annotation standard](https://github.com/DCMLab/standards).
+It represents Sergei Rachmaninoff's virtuosic op. 42 Variations (1931). This work, written on Lake Lucerne in
+Switzerland, reflects the style of the composer's reticent late period. The title is something of a misnomer, as the
+theme is in fact the traditional La Folia, used widely by composers of the 17th and 18th centuries including Vivaldi,
+Händel, and indeed Corelli. Rachmaninoff tears this venerable theme to shreds with pianistic pyrotechnics so difficult
+that the composer himself, champion of the instrument that he was, found them unplayable. Our annotations reveal the
+tonal substance out of which this cycle's impressive digressions and interpolations are forged, and comparing the
+outputs of each of these variations should provide fertile ground for quantitative study of variational technique.
 
 ## Cite as
 
@@ -30,12 +40,6 @@ Please [create an issue](https://github.com/DCMLab/rachmaninoff_piano/issues) an
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 ![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
-
-
-This corpus of annotated [MuseScore](https://musescore.org) files has been created within
-the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
-the [DCML harmony annotation standard](https://github.com/DCMLab/standards).
-It represents Sergei Rachmaninoff's virtuosic op. 42 Variations (1931). This work, written on Lake Lucerne in Switzerland, reflects the style of the composer's reticent late period. The title is something of a misnomer, as the theme is in fact the traditional La Folia, used widely by composers of the 17th and 18th centuries including Vivaldi, Händel, and indeed Corelli. Rachmaninoff tears this venerable theme to shreds with pianistic pyrotechnics so difficult that the composer himself, champion of the instrument that he was, found them unplayable. Our annotations reveal the tonal substance out of which this cycle's impressive digressions and interpolations are forged, and comparing the outputs of each of these variations should provide fertile ground for quantitative study of variational technique.
 
 ## Scores
 

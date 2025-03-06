@@ -1,0 +1,3 @@
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 8, '0', 'V|HC}') ms3.Parse.rachmaninoff_piano.op42_01b
+	The label 'V|HC}' in m. 8, onset 0 (MC 8, onset 0) is correct and the rest are passing notes.
+

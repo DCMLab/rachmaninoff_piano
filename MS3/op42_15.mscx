@@ -160,10 +160,10 @@
             <text>dolcissimo</text>
             </StaffText>
           <Tempo>
-            <tempo>2.3000000000000003</tempo>
+            <tempo>2.25</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 92</b></text>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 90</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>

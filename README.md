@@ -12,7 +12,7 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/rachmaninoff_piano/introduction).
 
-# Sergei Rachmaninoff – Variations on a Theme of Corelli, Op. 42
+# Sergei Rachmaninoff – Variations on a Theme of Corelli, Op. 42 (A corpus of annotated scores)
 
 This corpus of annotated [MuseScore](https://musescore.org) files has been created within
 the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
@@ -70,13 +70,13 @@ every modern programming language.
 
 Since the TSV files contain null values, lists, fractions, and numbers that are to be treated as strings, you may want
 to use this code to load any TSV files related to this repository (provided you're doing it in Python). After a quick
-`pip install -U ms3` (requires Python 3.10) you'll be able to load any TSV like this:
+`pip install -U ms3` (requires Python 3.10 or later) you'll be able to load any TSV like this:
 
 ```python
 import ms3
 
 labels = ms3.load_tsv("harmonies/op42_01a.harmonies.tsv")
-notes = ms3.load_tsv("notes/op42_01a.notes.tsv"")
+notes = ms3.load_tsv("notes/op42_01a.notes.tsv")
 ```
 
 
@@ -90,7 +90,7 @@ Please [create an issue](https://github.com/DCMLab/rachmaninoff_piano/issues) an
 
 ## Cite as
 
-_Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Sergei Rachmaninoff – Variations on a Theme of Corelli, Op. 42 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14984155_
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Sergei Rachmaninoff – Variations on a Theme of Corelli, Op. 42 (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14984155
 
 ## License
 

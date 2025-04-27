@@ -60,7 +60,7 @@
         }
     ],
     "upload_type": "dataset",
-    "version": "v2.3",
+    "version": "v2.4",
     "communities": [
         {
             "identifier": "dcml"
@@ -69,7 +69,7 @@
             "identifier": "epfl"
         }
     ],
-    "publication_date": "2025-03-07",
+    "publication_date": "2025-04-27",
     "creators": [
         {
             "orcid": "0000-0002-1986-9545",
@@ -96,7 +96,7 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/DCMLab/rachmaninoff_piano/tree/v2.3",
+            "identifier": "https://github.com/DCMLab/rachmaninoff_piano/tree/v2.4",
             "relation": "references"
         },
         {
